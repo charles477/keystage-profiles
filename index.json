@@ -2,6 +2,26 @@
   "indexVersion": 1,
   "profiles": [
     {
+      "id": "yamaha-psr-e373",
+      "manufacturer": "Yamaha",
+      "model": "PSR-E373",
+      "shortName": "E373",
+      "summary": "622 voices · 205 styles",
+      "file": "profiles/yamaha-psr-e373.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.11.15",
+      "sizeBytes": 96938,
+      "sha256": "3ef358fa8b525beb8c49b2839a49980fcbb33ba25f003cfe997dd5ab1365c554",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": null,
+        "modelCode": null
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    },
+    {
       "id": "yamaha-psr-e473",
       "manufacturer": "Yamaha",
       "model": "PSR-E473",
@@ -22,6 +42,86 @@
       ]
     },
     {
+      "id": "yamaha-psr-i300",
+      "manufacturer": "Yamaha",
+      "model": "PSR-I300",
+      "shortName": "I300",
+      "summary": "644 voices (30 Indian) · 224 styles",
+      "file": "profiles/yamaha-psr-i300.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.11.15",
+      "sizeBytes": 101004,
+      "sha256": "da243a99feb38fe3bc58772b44dc61ea89bfd6a1b932a44111766669b044b980",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": null,
+        "modelCode": null
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    },
+    {
+      "id": "yamaha-psr-i400",
+      "manufacturer": "Yamaha",
+      "model": "PSR-I400",
+      "shortName": "I400",
+      "summary": "764 voices (30 Indian) · 218 styles",
+      "file": "profiles/yamaha-psr-i400.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.11.15",
+      "sizeBytes": 116395,
+      "sha256": "bf54dd318a91b3a5b601d6a7f08e9d05cd7d798fb660c318af3583a6896a37c1",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": null,
+        "modelCode": null
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    },
+    {
+      "id": "yamaha-psr-i425",
+      "manufacturer": "Yamaha",
+      "model": "PSR-I425",
+      "shortName": "I425",
+      "summary": "514 voices (10 Indian) · 162 styles",
+      "file": "profiles/yamaha-psr-i425.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.11.15",
+      "sizeBytes": 78720,
+      "sha256": "bbcb1319cd1c532757c5f6cec7279a42ad187554b4b514874d342f41d6ff8380",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": null,
+        "modelCode": null
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    },
+    {
+      "id": "yamaha-psr-i455",
+      "manufacturer": "Yamaha",
+      "model": "PSR-I455",
+      "shortName": "I455",
+      "summary": "753 voices (19 Indian) · 179 styles",
+      "file": "profiles/yamaha-psr-i455.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.11.15",
+      "sizeBytes": 111441,
+      "sha256": "f5e52691b1fdc3ce6d1c6423fe6dd1ea27ff50c5421037d0e179fd2368c7345d",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": null,
+        "modelCode": null
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    },
+    {
       "id": "yamaha-psr-i500",
       "manufacturer": "Yamaha",
       "model": "PSR-I500",
@@ -32,6 +132,46 @@
       "profileVersion": "2026.09.17",
       "sizeBytes": 125995,
       "sha256": "11e5fb095ce5776936213babf176bbe623fdbb05096943a40d973402e6a8dbe8",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": null,
+        "modelCode": null
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    },
+    {
+      "id": "yamaha-psr-i510",
+      "manufacturer": "Yamaha",
+      "model": "PSR-I510",
+      "shortName": "I510",
+      "summary": "887 voices (40 Indian) · 382 styles",
+      "file": "profiles/yamaha-psr-i510.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.11.15",
+      "sizeBytes": 147120,
+      "sha256": "3893765aedcd5b82dcc17978cff88ac12756fa55fc7cfb917472775bd56b3b72",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": null,
+        "modelCode": null
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    },
+    {
+      "id": "yamaha-psr-i610",
+      "manufacturer": "Yamaha",
+      "model": "PSR-I610",
+      "shortName": "I610",
+      "summary": "927 voices (50 Indian) · 392 styles",
+      "file": "profiles/yamaha-psr-i610.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.11.15",
+      "sizeBytes": 153346,
+      "sha256": "42a48526b983b46b2117181ccfd6b68b192f3551bd8f74ad99365da08f2cda96",
       "identity": {
         "manufacturerId": "43",
         "familyCode": null,

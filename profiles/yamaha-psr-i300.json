@@ -1,0 +1,6410 @@
+{
+ "schemaVersion": 1,
+ "id": "yamaha-psr-i300",
+ "profileVersion": "2026.11.15",
+ "manufacturer": "Yamaha",
+ "model": "PSR-I300",
+ "shortName": "I300",
+ "toneGenerator": "XGlite",
+ "identity": {
+  "manufacturerId": "43",
+  "familyCode": null,
+  "modelCode": null
+ },
+ "usbProductNames": [
+  "Digital Keyboard"
+ ],
+ "summary": "644 voices (30 Indian) · 224 styles",
+ "capabilities": {
+  "programChange": true,
+  "bankSelect": true,
+  "controlChanges": [
+   1,
+   7,
+   10,
+   11,
+   64,
+   71,
+   72,
+   73,
+   74,
+   91,
+   93
+  ],
+  "localControl": true,
+  "panelVoiceFollowsMidi": null,
+  "externalClockStartStop": true,
+  "reverbTypeSysex": null,
+  "chorusTypeSysex": null,
+  "masterVolumeSysex": null,
+  "xgSystemOn": null,
+  "identityReply": null,
+  "styleSectionControl": false,
+  "registrationRecall": false,
+  "userStyleSlots": null,
+  "styleFormats": [],
+  "maxStyleBytes": null,
+  "styleLoadFolder": null,
+  "usbFlash": null,
+  "bluetoothMidi": false
+ },
+ "drumKits": {
+  "bankMsb": 127,
+  "bankLsb": 0
+ },
+ "reverbTypes": [],
+ "chorusTypes": [],
+ "voiceCategories": [
+  "Indian",
+  "Piano",
+  "E.Piano",
+  "Organ",
+  "Accordion",
+  "Guitar",
+  "Bass",
+  "Strings",
+  "Choir",
+  "Woodwind",
+  "Brass",
+  "Synth",
+  "Percussion",
+  "World",
+  "Sound Effect",
+  "Drum Kit",
+  "XG Piano",
+  "XG Chromatic",
+  "XG Organ",
+  "XG Guitar",
+  "XG Bass",
+  "XG String",
+  "XG Ensemble",
+  "XG Brass",
+  "XG Reed",
+  "XG Pipe",
+  "XG Synth Lead",
+  "XG Synth Pad",
+  "XG Synth Effects",
+  "XG World",
+  "XG Percussive",
+  "XG Sound Effects"
+ ],
+ "voices": [
+  {
+   "number": 1,
+   "name": "Harmonium Single",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 113,
+   "program": 21
+  },
+  {
+   "number": 2,
+   "name": "Harmonium Double",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 114,
+   "program": 21
+  },
+  {
+   "number": 3,
+   "name": "Harmonium Triple",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 115,
+   "program": 21
+  },
+  {
+   "number": 4,
+   "name": "Shehnai",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 123,
+   "program": 112
+  },
+  {
+   "number": 5,
+   "name": "S.Art Lite Sarangi",
+   "category": "Indian",
+   "msb": 8,
+   "lsb": 96,
+   "program": 79
+  },
+  {
+   "number": 6,
+   "name": "Sweet! Sarangi",
+   "category": "Indian",
+   "msb": 51,
+   "lsb": 0,
+   "program": 23
+  },
+  {
+   "number": 7,
+   "name": "Pungi",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 124,
+   "program": 112
+  },
+  {
+   "number": 8,
+   "name": "Sweet! Bansuri",
+   "category": "Indian",
+   "msb": 51,
+   "lsb": 0,
+   "program": 11
+  },
+  {
+   "number": 9,
+   "name": "S.Art Lite Sitar 1",
+   "category": "Indian",
+   "msb": 8,
+   "lsb": 97,
+   "program": 127
+  },
+  {
+   "number": 10,
+   "name": "S.Art Lite Sitar 2",
+   "category": "Indian",
+   "msb": 8,
+   "lsb": 96,
+   "program": 127
+  },
+  {
+   "number": 11,
+   "name": "Sarod",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 115,
+   "program": 105
+  },
+  {
+   "number": 12,
+   "name": "S.Art Lite Santoor",
+   "category": "Indian",
+   "msb": 8,
+   "lsb": 96,
+   "program": 128
+  },
+  {
+   "number": 13,
+   "name": "Santoor",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 118,
+   "program": 16
+  },
+  {
+   "number": 14,
+   "name": "Tanpura 1",
+   "category": "Indian",
+   "msb": 51,
+   "lsb": 0,
+   "program": 24
+  },
+  {
+   "number": 15,
+   "name": "Tanpura 2",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 114,
+   "program": 105
+  },
+  {
+   "number": 16,
+   "name": "Indian Banjo",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 120,
+   "program": 108
+  },
+  {
+   "number": 17,
+   "name": "Mandolin",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 124,
+   "program": 26
+  },
+  {
+   "number": 18,
+   "name": "Swarmandal",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 121,
+   "program": 108
+  },
+  {
+   "number": 19,
+   "name": "Ektara",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 117,
+   "program": 105
+  },
+  {
+   "number": 20,
+   "name": "East Rabab",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 118,
+   "program": 105
+  },
+  {
+   "number": 21,
+   "name": "Bell",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 113,
+   "program": 10
+  },
+  {
+   "number": 22,
+   "name": "Early Morning",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 127,
+   "program": 89
+  },
+  {
+   "number": 23,
+   "name": "Sun Vibes",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 117,
+   "program": 12
+  },
+  {
+   "number": 24,
+   "name": "Tabla",
+   "category": "Indian",
+   "msb": 0,
+   "lsb": 116,
+   "program": 117
+  },
+  {
+   "number": 25,
+   "name": "Tabla Kit 1",
+   "category": "Indian",
+   "msb": 126,
+   "lsb": 0,
+   "program": 116,
+   "drumKit": true
+  },
+  {
+   "number": 26,
+   "name": "Tabla Kit 2",
+   "category": "Indian",
+   "msb": 126,
+   "lsb": 0,
+   "program": 117,
+   "drumKit": true
+  },
+  {
+   "number": 27,
+   "name": "Indian Kit 1",
+   "category": "Indian",
+   "msb": 126,
+   "lsb": 0,
+   "program": 40,
+   "drumKit": true
+  },
+  {
+   "number": 28,
+   "name": "Indian Kit 2",
+   "category": "Indian",
+   "msb": 126,
+   "lsb": 0,
+   "program": 115,
+   "drumKit": true
+  },
+  {
+   "number": 29,
+   "name": "Indian Mix Kit",
+   "category": "Indian",
+   "msb": 126,
+   "lsb": 0,
+   "program": 33,
+   "drumKit": true
+  },
+  {
+   "number": 30,
+   "name": "Animal Kit",
+   "category": "Indian",
+   "msb": 126,
+   "lsb": 0,
+   "program": 112,
+   "drumKit": true
+  },
+  {
+   "number": 31,
+   "name": "Live! Concert Grand Piano",
+   "category": "Piano",
+   "msb": 0,
+   "lsb": 115,
+   "program": 1
+  },
+  {
+   "number": 32,
+   "name": "Grand Piano",
+   "category": "Piano",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 33,
+   "name": "Bright Piano",
+   "category": "Piano",
+   "msb": 0,
+   "lsb": 112,
+   "program": 2
+  },
+  {
+   "number": 34,
+   "name": "Harpsichord",
+   "category": "Piano",
+   "msb": 0,
+   "lsb": 112,
+   "program": 7
+  },
+  {
+   "number": 35,
+   "name": "Honky Tonk Piano",
+   "category": "Piano",
+   "msb": 0,
+   "lsb": 112,
+   "program": 4
+  },
+  {
+   "number": 36,
+   "name": "MIDI Grand Piano",
+   "category": "Piano",
+   "msb": 0,
+   "lsb": 112,
+   "program": 3
+  },
+  {
+   "number": 37,
+   "name": "CP80",
+   "category": "Piano",
+   "msb": 0,
+   "lsb": 113,
+   "program": 3
+  },
+  {
+   "number": 38,
+   "name": "Cool! Suitcase Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 118,
+   "program": 5
+  },
+  {
+   "number": 39,
+   "name": "Jazz Chorus Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 118,
+   "program": 6
+  },
+  {
+   "number": 40,
+   "name": "Phase Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 120,
+   "program": 5
+  },
+  {
+   "number": 41,
+   "name": "Cool! Tremolo Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 119,
+   "program": 5
+  },
+  {
+   "number": 42,
+   "name": "Cool! Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 121,
+   "program": 5
+  },
+  {
+   "number": 43,
+   "name": "Stage Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 117,
+   "program": 5
+  },
+  {
+   "number": 44,
+   "name": "Cool! Galaxy Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 114,
+   "program": 5
+  },
+  {
+   "number": 45,
+   "name": "Hyper Tines",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 113,
+   "program": 6
+  },
+  {
+   "number": 46,
+   "name": "Funky Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 112,
+   "program": 5
+  },
+  {
+   "number": 47,
+   "name": "DX Modern Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 112,
+   "program": 6
+  },
+  {
+   "number": 48,
+   "name": "Venus Electric Piano",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 114,
+   "program": 6
+  },
+  {
+   "number": 49,
+   "name": "Clavi",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 112,
+   "program": 8
+  },
+  {
+   "number": 50,
+   "name": "Wah Clavi",
+   "category": "E.Piano",
+   "msb": 0,
+   "lsb": 113,
+   "program": 8
+  },
+  {
+   "number": 51,
+   "name": "Cool! Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 118,
+   "program": 19
+  },
+  {
+   "number": 52,
+   "name": "Cool! Rotor Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 117,
+   "program": 19
+  },
+  {
+   "number": 53,
+   "name": "Jazz Organ 1",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 112,
+   "program": 17
+  },
+  {
+   "number": 54,
+   "name": "Jazz Organ 1 + Rotary Fast",
+   "category": "Organ",
+   "msb": 104,
+   "lsb": 49,
+   "program": 17
+  },
+  {
+   "number": 55,
+   "name": "Jazz Organ 2",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 113,
+   "program": 17
+  },
+  {
+   "number": 56,
+   "name": "Jazz Organ 2 + Rotary Fast",
+   "category": "Organ",
+   "msb": 104,
+   "lsb": 50,
+   "program": 17
+  },
+  {
+   "number": 57,
+   "name": "Rock Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 112,
+   "program": 19
+  },
+  {
+   "number": 58,
+   "name": "Octave Shift Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 120,
+   "program": 19
+  },
+  {
+   "number": 59,
+   "name": "Purple Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 114,
+   "program": 19
+  },
+  {
+   "number": 60,
+   "name": "Click Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 112,
+   "program": 18
+  },
+  {
+   "number": 61,
+   "name": "Bright Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 116,
+   "program": 17
+  },
+  {
+   "number": 62,
+   "name": "Theatre Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 127,
+   "program": 19
+  },
+  {
+   "number": 63,
+   "name": "16' + 2' Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 121,
+   "program": 20
+  },
+  {
+   "number": 64,
+   "name": "16' + 4' Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 120,
+   "program": 20
+  },
+  {
+   "number": 65,
+   "name": "Chapel Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 113,
+   "program": 20
+  },
+  {
+   "number": 66,
+   "name": "Pipe Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 112,
+   "program": 20
+  },
+  {
+   "number": 67,
+   "name": "Reed Organ",
+   "category": "Organ",
+   "msb": 0,
+   "lsb": 112,
+   "program": 21
+  },
+  {
+   "number": 68,
+   "name": "Musette Accordion",
+   "category": "Accordion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 22
+  },
+  {
+   "number": 69,
+   "name": "Traditional Accordion",
+   "category": "Accordion",
+   "msb": 0,
+   "lsb": 113,
+   "program": 22
+  },
+  {
+   "number": 70,
+   "name": "Bandoneon",
+   "category": "Accordion",
+   "msb": 0,
+   "lsb": 113,
+   "program": 24
+  },
+  {
+   "number": 71,
+   "name": "Modern Harp",
+   "category": "Accordion",
+   "msb": 0,
+   "lsb": 113,
+   "program": 23
+  },
+  {
+   "number": 72,
+   "name": "Blues Harp",
+   "category": "Accordion",
+   "msb": 0,
+   "lsb": 114,
+   "program": 23
+  },
+  {
+   "number": 73,
+   "name": "Harmonica",
+   "category": "Accordion",
+   "msb": 0,
+   "lsb": 115,
+   "program": 23
+  },
+  {
+   "number": 74,
+   "name": "S.Art Lite Nylon Guitar Harmonics",
+   "category": "Guitar",
+   "msb": 8,
+   "lsb": 96,
+   "program": 1
+  },
+  {
+   "number": 75,
+   "name": "S.Art Lite Steel Guitar Harmonics",
+   "category": "Guitar",
+   "msb": 8,
+   "lsb": 96,
+   "program": 2
+  },
+  {
+   "number": 76,
+   "name": "S.Art Lite Nylon Guitar Slide",
+   "category": "Guitar",
+   "msb": 8,
+   "lsb": 97,
+   "program": 1
+  },
+  {
+   "number": 77,
+   "name": "S.Art Lite Steel Guitar Slide",
+   "category": "Guitar",
+   "msb": 8,
+   "lsb": 97,
+   "program": 2
+  },
+  {
+   "number": 78,
+   "name": "S.Art Lite Distortion Guitar",
+   "category": "Guitar",
+   "msb": 8,
+   "lsb": 96,
+   "program": 6
+  },
+  {
+   "number": 79,
+   "name": "Dynamic Nylon Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 116,
+   "program": 25
+  },
+  {
+   "number": 80,
+   "name": "Dynamic Overdriven",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 118,
+   "program": 30
+  },
+  {
+   "number": 81,
+   "name": "Dynamic Distortion Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 121,
+   "program": 31
+  },
+  {
+   "number": 82,
+   "name": "Nylon Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 122,
+   "program": 25
+  },
+  {
+   "number": 83,
+   "name": "Classical Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 112,
+   "program": 25
+  },
+  {
+   "number": 84,
+   "name": "Steel Guitar",
+   "category": "Guitar",
+   "msb": 104,
+   "lsb": 25,
+   "program": 26
+  },
+  {
+   "number": 85,
+   "name": "Folk Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 112,
+   "program": 26
+  },
+  {
+   "number": 86,
+   "name": "Jazz Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 112,
+   "program": 27
+  },
+  {
+   "number": 87,
+   "name": "60s Clean Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 117,
+   "program": 28
+  },
+  {
+   "number": 88,
+   "name": "12Strings Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 113,
+   "program": 26
+  },
+  {
+   "number": 89,
+   "name": "Clean Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 112,
+   "program": 28
+  },
+  {
+   "number": 90,
+   "name": "Wah Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 127,
+   "program": 28
+  },
+  {
+   "number": 91,
+   "name": "Octave Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 113,
+   "program": 27
+  },
+  {
+   "number": 92,
+   "name": "Muted Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 112,
+   "program": 29
+  },
+  {
+   "number": 93,
+   "name": "Overdriven Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 112,
+   "program": 30
+  },
+  {
+   "number": 94,
+   "name": "Distortion Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 112,
+   "program": 31
+  },
+  {
+   "number": 95,
+   "name": "Wah Distortion Guitar",
+   "category": "Guitar",
+   "msb": 0,
+   "lsb": 127,
+   "program": 31
+  },
+  {
+   "number": 96,
+   "name": "S.Art Lite Slap Bass",
+   "category": "Bass",
+   "msb": 8,
+   "lsb": 96,
+   "program": 18
+  },
+  {
+   "number": 97,
+   "name": "Dynamic Electric Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 116,
+   "program": 34
+  },
+  {
+   "number": 98,
+   "name": "Finger Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 34
+  },
+  {
+   "number": 99,
+   "name": "Acoustic Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 33
+  },
+  {
+   "number": 100,
+   "name": "Pick Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 35
+  },
+  {
+   "number": 101,
+   "name": "Fretless Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 36
+  },
+  {
+   "number": 102,
+   "name": "Slap Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 37
+  },
+  {
+   "number": 103,
+   "name": "Funk Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 121,
+   "program": 40
+  },
+  {
+   "number": 104,
+   "name": "Synth Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 39
+  },
+  {
+   "number": 105,
+   "name": "Hi-Q Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 113,
+   "program": 39
+  },
+  {
+   "number": 106,
+   "name": "Dance Bass",
+   "category": "Bass",
+   "msb": 0,
+   "lsb": 113,
+   "program": 40
+  },
+  {
+   "number": 107,
+   "name": "S.Art Lite Strings",
+   "category": "Strings",
+   "msb": 8,
+   "lsb": 96,
+   "program": 50
+  },
+  {
+   "number": 108,
+   "name": "Live! Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 117,
+   "program": 50
+  },
+  {
+   "number": 109,
+   "name": "Studio Strings",
+   "category": "Strings",
+   "msb": 104,
+   "lsb": 23,
+   "program": 49
+  },
+  {
+   "number": 110,
+   "name": "Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 49
+  },
+  {
+   "number": 111,
+   "name": "Chamber Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 50
+  },
+  {
+   "number": 112,
+   "name": "Marcato Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 115,
+   "program": 50
+  },
+  {
+   "number": 113,
+   "name": "Slow Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 113,
+   "program": 50
+  },
+  {
+   "number": 114,
+   "name": "Tremolo Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 45
+  },
+  {
+   "number": 115,
+   "name": "Synth Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 51
+  },
+  {
+   "number": 116,
+   "name": "Pizzicato Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 46
+  },
+  {
+   "number": 117,
+   "name": "Orchestra Pizzicato Strings",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 116,
+   "program": 46
+  },
+  {
+   "number": 118,
+   "name": "Sweet! Violin",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 113,
+   "program": 41
+  },
+  {
+   "number": 119,
+   "name": "Violin",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 41
+  },
+  {
+   "number": 120,
+   "name": "Cello",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 43
+  },
+  {
+   "number": 121,
+   "name": "Contrabass",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 44
+  },
+  {
+   "number": 122,
+   "name": "Harp",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 47
+  },
+  {
+   "number": 123,
+   "name": "Orchestra Hit",
+   "category": "Strings",
+   "msb": 0,
+   "lsb": 112,
+   "program": 56
+  },
+  {
+   "number": 124,
+   "name": "S.Art Lite Gospel Choir",
+   "category": "Choir",
+   "msb": 8,
+   "lsb": 96,
+   "program": 55
+  },
+  {
+   "number": 125,
+   "name": "Choir",
+   "category": "Choir",
+   "msb": 0,
+   "lsb": 112,
+   "program": 53
+  },
+  {
+   "number": 126,
+   "name": "Gospel Hmm",
+   "category": "Choir",
+   "msb": 104,
+   "lsb": 12,
+   "program": 54
+  },
+  {
+   "number": 127,
+   "name": "Gospel Wow",
+   "category": "Choir",
+   "msb": 104,
+   "lsb": 13,
+   "program": 54
+  },
+  {
+   "number": 128,
+   "name": "Vocal Ensemble",
+   "category": "Choir",
+   "msb": 0,
+   "lsb": 113,
+   "program": 53
+  },
+  {
+   "number": 129,
+   "name": "Air Choir",
+   "category": "Choir",
+   "msb": 0,
+   "lsb": 112,
+   "program": 55
+  },
+  {
+   "number": 130,
+   "name": "Vox Humana",
+   "category": "Choir",
+   "msb": 0,
+   "lsb": 112,
+   "program": 54
+  },
+  {
+   "number": 131,
+   "name": "S.Art Lite Tenor Sax",
+   "category": "Woodwind",
+   "msb": 8,
+   "lsb": 96,
+   "program": 83
+  },
+  {
+   "number": 132,
+   "name": "Sax Section",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 122,
+   "program": 67
+  },
+  {
+   "number": 133,
+   "name": "Sweet! Tenor Sax",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 117,
+   "program": 67
+  },
+  {
+   "number": 134,
+   "name": "Tenor Sax",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 67
+  },
+  {
+   "number": 135,
+   "name": "Alto Sax",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 66
+  },
+  {
+   "number": 136,
+   "name": "Soprano Sax",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 65
+  },
+  {
+   "number": 137,
+   "name": "Baritone Sax",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 68
+  },
+  {
+   "number": 138,
+   "name": "Breathy Tenor Sax",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 114,
+   "program": 67
+  },
+  {
+   "number": 139,
+   "name": "Small Sax Section",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 116,
+   "program": 66
+  },
+  {
+   "number": 140,
+   "name": "Clarinet",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 72
+  },
+  {
+   "number": 141,
+   "name": "Oboe",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 69
+  },
+  {
+   "number": 142,
+   "name": "English Horn",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 70
+  },
+  {
+   "number": 143,
+   "name": "Bassoon",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 71
+  },
+  {
+   "number": 144,
+   "name": "S.Art Lite Flute",
+   "category": "Woodwind",
+   "msb": 8,
+   "lsb": 96,
+   "program": 74
+  },
+  {
+   "number": 145,
+   "name": "Sweet! Flute",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 114,
+   "program": 74
+  },
+  {
+   "number": 146,
+   "name": "Sweet! Classical Flute",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 115,
+   "program": 74
+  },
+  {
+   "number": 147,
+   "name": "Flute",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 74
+  },
+  {
+   "number": 148,
+   "name": "Piccolo",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 73
+  },
+  {
+   "number": 149,
+   "name": "Pan Flute",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 76
+  },
+  {
+   "number": 150,
+   "name": "Recorder",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 75
+  },
+  {
+   "number": 151,
+   "name": "Ocarina",
+   "category": "Woodwind",
+   "msb": 0,
+   "lsb": 112,
+   "program": 80
+  },
+  {
+   "number": 152,
+   "name": "Trumpet",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 57
+  },
+  {
+   "number": 153,
+   "name": "Distortion Trumpet",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 127,
+   "program": 57
+  },
+  {
+   "number": 154,
+   "name": "Trombone",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 58
+  },
+  {
+   "number": 155,
+   "name": "Trombone Section",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 113,
+   "program": 58
+  },
+  {
+   "number": 156,
+   "name": "Muted Trumpet",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 60
+  },
+  {
+   "number": 157,
+   "name": "French Horn",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 61
+  },
+  {
+   "number": 158,
+   "name": "Tuba",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 59
+  },
+  {
+   "number": 159,
+   "name": "S.Art Lite Brass Section",
+   "category": "Brass",
+   "msb": 8,
+   "lsb": 96,
+   "program": 57
+  },
+  {
+   "number": 160,
+   "name": "Live! Brass",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 117,
+   "program": 63
+  },
+  {
+   "number": 161,
+   "name": "Brass Section",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 62
+  },
+  {
+   "number": 162,
+   "name": "Big Band Brass",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 113,
+   "program": 62
+  },
+  {
+   "number": 163,
+   "name": "Octave Brass",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 116,
+   "program": 62
+  },
+  {
+   "number": 164,
+   "name": "80s Brass",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 113,
+   "program": 63
+  },
+  {
+   "number": 165,
+   "name": "Mellow Horns",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 119,
+   "program": 62
+  },
+  {
+   "number": 166,
+   "name": "Funky Brass",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 115,
+   "program": 63
+  },
+  {
+   "number": 167,
+   "name": "Techno Brass",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 114,
+   "program": 63
+  },
+  {
+   "number": 168,
+   "name": "Synth Brass",
+   "category": "Brass",
+   "msb": 0,
+   "lsb": 112,
+   "program": 63
+  },
+  {
+   "number": 169,
+   "name": "Gemini",
+   "category": "Synth",
+   "msb": 104,
+   "lsb": 20,
+   "program": 91
+  },
+  {
+   "number": 170,
+   "name": "Hands Up!",
+   "category": "Synth",
+   "msb": 104,
+   "lsb": 21,
+   "program": 91
+  },
+  {
+   "number": 171,
+   "name": "Square Lead",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 81
+  },
+  {
+   "number": 172,
+   "name": "Sawtooth Lead",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 82
+  },
+  {
+   "number": 173,
+   "name": "RS Tech Saw",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 108,
+   "program": 82
+  },
+  {
+   "number": 174,
+   "name": "Under Heim",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 88
+  },
+  {
+   "number": 175,
+   "name": "Portatone",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 85
+  },
+  {
+   "number": 176,
+   "name": "Analogon 1",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 115,
+   "program": 82
+  },
+  {
+   "number": 177,
+   "name": "Fargo 1",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 119,
+   "program": 82
+  },
+  {
+   "number": 178,
+   "name": "Analogon 2",
+   "category": "Synth",
+   "msb": 104,
+   "lsb": 53,
+   "program": 82
+  },
+  {
+   "number": 179,
+   "name": "Fargo 2",
+   "category": "Synth",
+   "msb": 104,
+   "lsb": 54,
+   "program": 82
+  },
+  {
+   "number": 180,
+   "name": "Voice Lead",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 86
+  },
+  {
+   "number": 181,
+   "name": "Funky Lead",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 121,
+   "program": 82
+  },
+  {
+   "number": 182,
+   "name": "Sweet Heaven",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 118,
+   "program": 89
+  },
+  {
+   "number": 183,
+   "name": "Dream Heaven",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 121,
+   "program": 89
+  },
+  {
+   "number": 184,
+   "name": "Symbiont",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 113,
+   "program": 89
+  },
+  {
+   "number": 185,
+   "name": "Stardust",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 99
+  },
+  {
+   "number": 186,
+   "name": "Brightness",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 101
+  },
+  {
+   "number": 187,
+   "name": "Xenon Pad",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 92
+  },
+  {
+   "number": 188,
+   "name": "Equinox",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 95
+  },
+  {
+   "number": 189,
+   "name": "Fantasia",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 112,
+   "program": 89
+  },
+  {
+   "number": 190,
+   "name": "Dark Moon",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 113,
+   "program": 90
+  },
+  {
+   "number": 191,
+   "name": "Bell Pad",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 113,
+   "program": 101
+  },
+  {
+   "number": 192,
+   "name": "RS Analog Pad",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 126,
+   "program": 90
+  },
+  {
+   "number": 193,
+   "name": "RS Short Resonance",
+   "category": "Synth",
+   "msb": 0,
+   "lsb": 116,
+   "program": 91
+  },
+  {
+   "number": 194,
+   "name": "Vibraphone",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 12
+  },
+  {
+   "number": 195,
+   "name": "Jazz Vibes",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 113,
+   "program": 12
+  },
+  {
+   "number": 196,
+   "name": "Marimba",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 13
+  },
+  {
+   "number": 197,
+   "name": "Xylophone",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 14
+  },
+  {
+   "number": 198,
+   "name": "Steel Drums",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 115
+  },
+  {
+   "number": 199,
+   "name": "Celesta",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 9
+  },
+  {
+   "number": 200,
+   "name": "Music Box",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 11
+  },
+  {
+   "number": 201,
+   "name": "Tubular Bells",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 15
+  },
+  {
+   "number": 202,
+   "name": "Timpani",
+   "category": "Percussion",
+   "msb": 0,
+   "lsb": 112,
+   "program": 48
+  },
+  {
+   "number": 203,
+   "name": "Banjo",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 106
+  },
+  {
+   "number": 204,
+   "name": "Fiddle",
+   "category": "World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 111
+  },
+  {
+   "number": 205,
+   "name": "Bagpipe",
+   "category": "World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 110
+  },
+  {
+   "number": 206,
+   "name": "Dulcimer 1",
+   "category": "World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 16
+  },
+  {
+   "number": 207,
+   "name": "Dulcimer 2",
+   "category": "World",
+   "msb": 0,
+   "lsb": 35,
+   "program": 16
+  },
+  {
+   "number": 208,
+   "name": "Cimbalom",
+   "category": "World",
+   "msb": 0,
+   "lsb": 96,
+   "program": 16
+  },
+  {
+   "number": 209,
+   "name": "Santur",
+   "category": "World",
+   "msb": 0,
+   "lsb": 121,
+   "program": 16
+  },
+  {
+   "number": 210,
+   "name": "Kanoon",
+   "category": "World",
+   "msb": 0,
+   "lsb": 97,
+   "program": 108
+  },
+  {
+   "number": 211,
+   "name": "Oud",
+   "category": "World",
+   "msb": 0,
+   "lsb": 98,
+   "program": 106
+  },
+  {
+   "number": 212,
+   "name": "Rabab",
+   "category": "World",
+   "msb": 0,
+   "lsb": 96,
+   "program": 106
+  },
+  {
+   "number": 213,
+   "name": "Kalimba",
+   "category": "World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 109
+  },
+  {
+   "number": 214,
+   "name": "Er Hu",
+   "category": "World",
+   "msb": 0,
+   "lsb": 115,
+   "program": 111
+  },
+  {
+   "number": 215,
+   "name": "Di Zi",
+   "category": "World",
+   "msb": 0,
+   "lsb": 118,
+   "program": 74
+  },
+  {
+   "number": 216,
+   "name": "Pi Pa",
+   "category": "World",
+   "msb": 0,
+   "lsb": 116,
+   "program": 106
+  },
+  {
+   "number": 217,
+   "name": "Gu Zheng",
+   "category": "World",
+   "msb": 0,
+   "lsb": 113,
+   "program": 108
+  },
+  {
+   "number": 218,
+   "name": "Yang Qin",
+   "category": "World",
+   "msb": 0,
+   "lsb": 40,
+   "program": 47
+  },
+  {
+   "number": 219,
+   "name": "Morin Khuur",
+   "category": "World",
+   "msb": 0,
+   "lsb": 120,
+   "program": 111
+  },
+  {
+   "number": 220,
+   "name": "Suling",
+   "category": "World",
+   "msb": 0,
+   "lsb": 124,
+   "program": 74
+  },
+  {
+   "number": 221,
+   "name": "Shamisen",
+   "category": "World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 107
+  },
+  {
+   "number": 222,
+   "name": "Koto",
+   "category": "World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 108
+  },
+  {
+   "number": 223,
+   "name": "Taisho-kin",
+   "category": "World",
+   "msb": 0,
+   "lsb": 96,
+   "program": 108
+  },
+  {
+   "number": 224,
+   "name": "Octave Piano",
+   "category": "World",
+   "msb": 0,
+   "lsb": 115,
+   "program": 1
+  },
+  {
+   "number": 225,
+   "name": "Piano & Strings",
+   "category": "World",
+   "msb": 0,
+   "lsb": 115,
+   "program": 1
+  },
+  {
+   "number": 226,
+   "name": "Piano Pad",
+   "category": "World",
+   "msb": 0,
+   "lsb": 115,
+   "program": 1
+  },
+  {
+   "number": 227,
+   "name": "Octave Harpsichord",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 7
+  },
+  {
+   "number": 228,
+   "name": "Tiny Electric Piano",
+   "category": "World",
+   "msb": 0,
+   "lsb": 113,
+   "program": 6
+  },
+  {
+   "number": 229,
+   "name": "Electric Piano Pad",
+   "category": "World",
+   "msb": 0,
+   "lsb": 114,
+   "program": 5
+  },
+  {
+   "number": 230,
+   "name": "Full Organ",
+   "category": "World",
+   "msb": 0,
+   "lsb": 120,
+   "program": 20
+  },
+  {
+   "number": 231,
+   "name": "Octave Jazz Guitar",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 27
+  },
+  {
+   "number": 232,
+   "name": "Octave Strings",
+   "category": "World",
+   "msb": 0,
+   "lsb": 115,
+   "program": 50
+  },
+  {
+   "number": 233,
+   "name": "Orchestra Section",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 49
+  },
+  {
+   "number": 234,
+   "name": "Octave Pizzicato Strings",
+   "category": "World",
+   "msb": 0,
+   "lsb": 116,
+   "program": 46
+  },
+  {
+   "number": 235,
+   "name": "Strings Session",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 41
+  },
+  {
+   "number": 236,
+   "name": "Brass Tutti",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 62
+  },
+  {
+   "number": 237,
+   "name": "Orchestra Tutti",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 49
+  },
+  {
+   "number": 238,
+   "name": "Octave French Horns",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 61
+  },
+  {
+   "number": 239,
+   "name": "Octave Harp",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 47
+  },
+  {
+   "number": 240,
+   "name": "Orchestra Hit & Timpani",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 56
+  },
+  {
+   "number": 241,
+   "name": "Octave Choir",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 53
+  },
+  {
+   "number": 242,
+   "name": "Jazz Brass Section",
+   "category": "World",
+   "msb": 0,
+   "lsb": 113,
+   "program": 62
+  },
+  {
+   "number": 243,
+   "name": "Jazz Section",
+   "category": "World",
+   "msb": 0,
+   "lsb": 113,
+   "program": 62
+  },
+  {
+   "number": 244,
+   "name": "Ballroom Sax Ensemble",
+   "category": "World",
+   "msb": 0,
+   "lsb": 116,
+   "program": 66
+  },
+  {
+   "number": 245,
+   "name": "Ballroom Brass",
+   "category": "World",
+   "msb": 0,
+   "lsb": 113,
+   "program": 62
+  },
+  {
+   "number": 246,
+   "name": "Flute & Clarinet",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 74
+  },
+  {
+   "number": 247,
+   "name": "Trumpet & Trombone",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 57
+  },
+  {
+   "number": 248,
+   "name": "Fat Synth Brass",
+   "category": "World",
+   "msb": 0,
+   "lsb": 113,
+   "program": 63
+  },
+  {
+   "number": 249,
+   "name": "Octave Lead",
+   "category": "World",
+   "msb": 0,
+   "lsb": 112,
+   "program": 88
+  },
+  {
+   "number": 250,
+   "name": "Super 5th Lead",
+   "category": "World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 87
+  },
+  {
+   "number": 251,
+   "name": "Fret Noise",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 0,
+   "program": 121
+  },
+  {
+   "number": 252,
+   "name": "Breath Noise",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 0,
+   "program": 122
+  },
+  {
+   "number": 253,
+   "name": "Seashore",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 0,
+   "program": 123
+  },
+  {
+   "number": 254,
+   "name": "Bird Tweet",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 0,
+   "program": 124
+  },
+  {
+   "number": 255,
+   "name": "Telephone Ring",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 0,
+   "program": 125
+  },
+  {
+   "number": 256,
+   "name": "Helicopter",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 0,
+   "program": 126
+  },
+  {
+   "number": 257,
+   "name": "Applause",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 0,
+   "program": 127
+  },
+  {
+   "number": 258,
+   "name": "Hand Clap",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 113,
+   "program": 116
+  },
+  {
+   "number": 259,
+   "name": "Gunshot",
+   "category": "Sound Effect",
+   "msb": 0,
+   "lsb": 0,
+   "program": 128
+  },
+  {
+   "number": 260,
+   "name": "Power Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 88,
+   "drumKit": true
+  },
+  {
+   "number": 261,
+   "name": "Standard Kit 1",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 1,
+   "drumKit": true
+  },
+  {
+   "number": 262,
+   "name": "Standard Kit 2",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 2,
+   "drumKit": true
+  },
+  {
+   "number": 263,
+   "name": "Room Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 9,
+   "drumKit": true
+  },
+  {
+   "number": 264,
+   "name": "Rock Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 17,
+   "drumKit": true
+  },
+  {
+   "number": 265,
+   "name": "Electronic Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 25,
+   "drumKit": true
+  },
+  {
+   "number": 266,
+   "name": "Analog Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 26,
+   "drumKit": true
+  },
+  {
+   "number": 267,
+   "name": "Dance Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 113,
+   "drumKit": true
+  },
+  {
+   "number": 268,
+   "name": "Jazz Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 33,
+   "drumKit": true
+  },
+  {
+   "number": 269,
+   "name": "Brush Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 41,
+   "drumKit": true
+  },
+  {
+   "number": 270,
+   "name": "Symphony Kit",
+   "category": "Drum Kit",
+   "msb": 127,
+   "lsb": 0,
+   "program": 49,
+   "drumKit": true
+  },
+  {
+   "number": 271,
+   "name": "Chinese kit",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 128,
+   "drumKit": true
+  },
+  {
+   "number": 272,
+   "name": "Indonesian Kit 1",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 55,
+   "drumKit": true
+  },
+  {
+   "number": 273,
+   "name": "Indonesian Kit 2",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 56,
+   "drumKit": true
+  },
+  {
+   "number": 274,
+   "name": "Indonesian Kit 3",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 57,
+   "drumKit": true
+  },
+  {
+   "number": 275,
+   "name": "Arabic Kit",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 37,
+   "drumKit": true
+  },
+  {
+   "number": 276,
+   "name": "Cuban Kit",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 41,
+   "drumKit": true
+  },
+  {
+   "number": 277,
+   "name": "SFX Kit 1",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 1,
+   "drumKit": true
+  },
+  {
+   "number": 278,
+   "name": "SFX Kit 2",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 2,
+   "drumKit": true
+  },
+  {
+   "number": 279,
+   "name": "Sound Effect Kit",
+   "category": "Drum Kit",
+   "msb": 126,
+   "lsb": 0,
+   "program": 113,
+   "drumKit": true
+  },
+  {
+   "number": 280,
+   "name": "Concerto",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 49
+  },
+  {
+   "number": 281,
+   "name": "Latin Rock",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 2
+  },
+  {
+   "number": 282,
+   "name": "Brass Section",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 62
+  },
+  {
+   "number": 283,
+   "name": "Piano Ballad",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 284,
+   "name": "Synth Sequence",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 96,
+   "program": 82
+  },
+  {
+   "number": 285,
+   "name": "Guitarist",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 117,
+   "program": 28
+  },
+  {
+   "number": 286,
+   "name": "Pickin'",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 26
+  },
+  {
+   "number": 287,
+   "name": "Spanish",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 25
+  },
+  {
+   "number": 288,
+   "name": "Funky Clavi",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 8
+  },
+  {
+   "number": 289,
+   "name": "Harpeggio",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 47
+  },
+  {
+   "number": 290,
+   "name": "Finger Bass Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 291,
+   "name": "Combo Jazz Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 292,
+   "name": "Paul's Bass Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 293,
+   "name": "Trance Bass Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 294,
+   "name": "Acid Bass Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 295,
+   "name": "Piano Ballad Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 296,
+   "name": "Salsa Piano Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 2
+  },
+  {
+   "number": 297,
+   "name": "Piano Arpeggio Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 298,
+   "name": "Guitar Arpeggio Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 299,
+   "name": "Strum Left",
+   "category": "Drum Kit",
+   "msb": 0,
+   "lsb": 112,
+   "program": 1
+  },
+  {
+   "number": 300,
+   "name": "Grand Piano",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 0,
+   "program": 1
+  },
+  {
+   "number": 301,
+   "name": "Grand Piano KSP",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 1,
+   "program": 1
+  },
+  {
+   "number": 302,
+   "name": "Piano Strings",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 40,
+   "program": 1
+  },
+  {
+   "number": 303,
+   "name": "Dream",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 41,
+   "program": 1
+  },
+  {
+   "number": 304,
+   "name": "Bright Piano",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 0,
+   "program": 2
+  },
+  {
+   "number": 305,
+   "name": "Bright Piano KSP",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 1,
+   "program": 2
+  },
+  {
+   "number": 306,
+   "name": "Electric Grand Piano",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 0,
+   "program": 3
+  },
+  {
+   "number": 307,
+   "name": "Electric Grand Piano KSP",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 1,
+   "program": 3
+  },
+  {
+   "number": 308,
+   "name": "Detuned CP80",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 32,
+   "program": 3
+  },
+  {
+   "number": 309,
+   "name": "Honky Tonk Piano",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 0,
+   "program": 4
+  },
+  {
+   "number": 310,
+   "name": "Honky Tonk Piano KSP",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 1,
+   "program": 4
+  },
+  {
+   "number": 311,
+   "name": "Electric Piano 1",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 0,
+   "program": 5
+  },
+  {
+   "number": 312,
+   "name": "Electric Piano 1 KSP",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 1,
+   "program": 5
+  },
+  {
+   "number": 313,
+   "name": "Chorus Electric Piano 1",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 32,
+   "program": 5
+  },
+  {
+   "number": 314,
+   "name": "Electric Piano 2",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 0,
+   "program": 6
+  },
+  {
+   "number": 315,
+   "name": "Electric Piano 2 KSP",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 1,
+   "program": 6
+  },
+  {
+   "number": 316,
+   "name": "Chorus Electric Piano 2",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 32,
+   "program": 6
+  },
+  {
+   "number": 317,
+   "name": "DX + Analog Electric Piano",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 41,
+   "program": 6
+  },
+  {
+   "number": 318,
+   "name": "Harpsichord 1",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 0,
+   "program": 7
+  },
+  {
+   "number": 319,
+   "name": "Harpsichord KSP",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 1,
+   "program": 7
+  },
+  {
+   "number": 320,
+   "name": "Harpsichord 2",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 35,
+   "program": 7
+  },
+  {
+   "number": 321,
+   "name": "Clavi",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 0,
+   "program": 8
+  },
+  {
+   "number": 322,
+   "name": "Clavi KSP",
+   "category": "XG Piano",
+   "msb": 0,
+   "lsb": 1,
+   "program": 8
+  },
+  {
+   "number": 323,
+   "name": "Celesta",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 0,
+   "program": 9
+  },
+  {
+   "number": 324,
+   "name": "Glockenspiel",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 0,
+   "program": 10
+  },
+  {
+   "number": 325,
+   "name": "Music Box 1",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 0,
+   "program": 11
+  },
+  {
+   "number": 326,
+   "name": "Music Box 2",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 64,
+   "program": 11
+  },
+  {
+   "number": 327,
+   "name": "Vibraphone",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 0,
+   "program": 12
+  },
+  {
+   "number": 328,
+   "name": "Vibraphone KSP",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 1,
+   "program": 12
+  },
+  {
+   "number": 329,
+   "name": "Marimba",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 0,
+   "program": 13
+  },
+  {
+   "number": 330,
+   "name": "Marimba KSP",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 1,
+   "program": 13
+  },
+  {
+   "number": 331,
+   "name": "Sine Marimba",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 64,
+   "program": 13
+  },
+  {
+   "number": 332,
+   "name": "Balimba",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 97,
+   "program": 13
+  },
+  {
+   "number": 333,
+   "name": "Log Drums",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 98,
+   "program": 13
+  },
+  {
+   "number": 334,
+   "name": "Xylophone",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 0,
+   "program": 14
+  },
+  {
+   "number": 335,
+   "name": "Tubular Bells",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 0,
+   "program": 15
+  },
+  {
+   "number": 336,
+   "name": "Church Bells",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 96,
+   "program": 15
+  },
+  {
+   "number": 337,
+   "name": "Carillon",
+   "category": "XG Chromatic",
+   "msb": 0,
+   "lsb": 97,
+   "program": 15
+  },
+  {
+   "number": 338,
+   "name": "Drawbar Organ 1",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 0,
+   "program": 17
+  },
+  {
+   "number": 339,
+   "name": "Detuned Drawbar Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 32,
+   "program": 17
+  },
+  {
+   "number": 340,
+   "name": "60s Drawbar Organ 1",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 33,
+   "program": 17
+  },
+  {
+   "number": 341,
+   "name": "60s Drawbar Organ 2",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 34,
+   "program": 17
+  },
+  {
+   "number": 342,
+   "name": "70s Drawbar Organ 1",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 35,
+   "program": 17
+  },
+  {
+   "number": 343,
+   "name": "60s Drawbar Organ 3",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 37,
+   "program": 17
+  },
+  {
+   "number": 344,
+   "name": "16' + 2'2/3 Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 40,
+   "program": 17
+  },
+  {
+   "number": 345,
+   "name": "Organ Bass",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 64,
+   "program": 17
+  },
+  {
+   "number": 346,
+   "name": "70s Drawbar Organ 2",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 65,
+   "program": 17
+  },
+  {
+   "number": 347,
+   "name": "Cheezy Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 66,
+   "program": 17
+  },
+  {
+   "number": 348,
+   "name": "Drawbar Organ 2",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 67,
+   "program": 17
+  },
+  {
+   "number": 349,
+   "name": "Percussive Organ 1",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 0,
+   "program": 18
+  },
+  {
+   "number": 350,
+   "name": "70s Percussive Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 24,
+   "program": 18
+  },
+  {
+   "number": 351,
+   "name": "Detuned Percussive Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 32,
+   "program": 18
+  },
+  {
+   "number": 352,
+   "name": "Light Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 33,
+   "program": 18
+  },
+  {
+   "number": 353,
+   "name": "Percussive Organ 2",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 37,
+   "program": 18
+  },
+  {
+   "number": 354,
+   "name": "Rock Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 0,
+   "program": 19
+  },
+  {
+   "number": 355,
+   "name": "Rotary Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 64,
+   "program": 19
+  },
+  {
+   "number": 356,
+   "name": "Slow Rotary Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 65,
+   "program": 19
+  },
+  {
+   "number": 357,
+   "name": "Fast Rotary Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 66,
+   "program": 19
+  },
+  {
+   "number": 358,
+   "name": "Church Organ 1",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 0,
+   "program": 20
+  },
+  {
+   "number": 359,
+   "name": "Church Organ 3",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 32,
+   "program": 20
+  },
+  {
+   "number": 360,
+   "name": "Church Organ 2",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 35,
+   "program": 20
+  },
+  {
+   "number": 361,
+   "name": "Notre Dame",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 40,
+   "program": 20
+  },
+  {
+   "number": 362,
+   "name": "Organ Flute",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 64,
+   "program": 20
+  },
+  {
+   "number": 363,
+   "name": "Tremolo Organ Flute",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 65,
+   "program": 20
+  },
+  {
+   "number": 364,
+   "name": "Reed Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 0,
+   "program": 21
+  },
+  {
+   "number": 365,
+   "name": "Puff Organ",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 40,
+   "program": 21
+  },
+  {
+   "number": 366,
+   "name": "Accordion",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 0,
+   "program": 22
+  },
+  {
+   "number": 367,
+   "name": "Harmonica 1",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 0,
+   "program": 23
+  },
+  {
+   "number": 368,
+   "name": "Harmonica 2",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 32,
+   "program": 23
+  },
+  {
+   "number": 369,
+   "name": "Tango Accordion 1",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 0,
+   "program": 24
+  },
+  {
+   "number": 370,
+   "name": "Tango Accordion 2",
+   "category": "XG Organ",
+   "msb": 0,
+   "lsb": 64,
+   "program": 24
+  },
+  {
+   "number": 371,
+   "name": "Nylon Guitar 1",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 0,
+   "program": 25
+  },
+  {
+   "number": 372,
+   "name": "Nylon Guitar 3",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 25,
+   "program": 25
+  },
+  {
+   "number": 373,
+   "name": "Velocity Guitar Harmonics",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 43,
+   "program": 25
+  },
+  {
+   "number": 374,
+   "name": "Ukulele",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 96,
+   "program": 25
+  },
+  {
+   "number": 375,
+   "name": "Steel Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 0,
+   "program": 26
+  },
+  {
+   "number": 376,
+   "name": "12Strings Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 35,
+   "program": 26
+  },
+  {
+   "number": 377,
+   "name": "Nylon & Steel Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 40,
+   "program": 26
+  },
+  {
+   "number": 378,
+   "name": "Steel Guitar with Body Sound",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 41,
+   "program": 26
+  },
+  {
+   "number": 379,
+   "name": "Mandolin",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 96,
+   "program": 26
+  },
+  {
+   "number": 380,
+   "name": "Jazz Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 0,
+   "program": 27
+  },
+  {
+   "number": 381,
+   "name": "Jazz Amp",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 32,
+   "program": 27
+  },
+  {
+   "number": 382,
+   "name": "Clean Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 0,
+   "program": 28
+  },
+  {
+   "number": 383,
+   "name": "Chorus Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 32,
+   "program": 28
+  },
+  {
+   "number": 384,
+   "name": "Muted Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 0,
+   "program": 29
+  },
+  {
+   "number": 385,
+   "name": "Funk Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 40,
+   "program": 29
+  },
+  {
+   "number": 386,
+   "name": "Muted Steel Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 41,
+   "program": 29
+  },
+  {
+   "number": 387,
+   "name": "Jazz Man",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 45,
+   "program": 29
+  },
+  {
+   "number": 388,
+   "name": "Overdriven Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 0,
+   "program": 30
+  },
+  {
+   "number": 389,
+   "name": "Guitar Pinch",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 43,
+   "program": 30
+  },
+  {
+   "number": 390,
+   "name": "Distortion Guitar",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 0,
+   "program": 31
+  },
+  {
+   "number": 391,
+   "name": "Feedback Guitar 1",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 40,
+   "program": 31
+  },
+  {
+   "number": 392,
+   "name": "Feedback Guitar 2",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 41,
+   "program": 31
+  },
+  {
+   "number": 393,
+   "name": "Guitar Harmonics 1",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 0,
+   "program": 32
+  },
+  {
+   "number": 394,
+   "name": "Guitar Feedback",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 65,
+   "program": 32
+  },
+  {
+   "number": 395,
+   "name": "Guitar Harmonics 2",
+   "category": "XG Guitar",
+   "msb": 0,
+   "lsb": 66,
+   "program": 32
+  },
+  {
+   "number": 396,
+   "name": "Acoustic Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 33
+  },
+  {
+   "number": 397,
+   "name": "Jazz Rhythm",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 40,
+   "program": 33
+  },
+  {
+   "number": 398,
+   "name": "Velocity Crossfade Upright Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 45,
+   "program": 33
+  },
+  {
+   "number": 399,
+   "name": "Finger Bass 1",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 34
+  },
+  {
+   "number": 400,
+   "name": "Finger Bass Dark",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 18,
+   "program": 34
+  },
+  {
+   "number": 401,
+   "name": "Bass & Distorted Electric Guitar",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 40,
+   "program": 34
+  },
+  {
+   "number": 402,
+   "name": "Finger Slap Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 43,
+   "program": 34
+  },
+  {
+   "number": 403,
+   "name": "Finger Bass 2",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 45,
+   "program": 34
+  },
+  {
+   "number": 404,
+   "name": "Modulated Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 65,
+   "program": 34
+  },
+  {
+   "number": 405,
+   "name": "Pick Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 35
+  },
+  {
+   "number": 406,
+   "name": "Muted Pick Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 28,
+   "program": 35
+  },
+  {
+   "number": 407,
+   "name": "Fretless Bass 1",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 36
+  },
+  {
+   "number": 408,
+   "name": "Fretless Bass 2",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 32,
+   "program": 36
+  },
+  {
+   "number": 409,
+   "name": "Fretless Bass 3",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 33,
+   "program": 36
+  },
+  {
+   "number": 410,
+   "name": "Fretless Bass 4",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 34,
+   "program": 36
+  },
+  {
+   "number": 411,
+   "name": "Slap Bass 1",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 37
+  },
+  {
+   "number": 412,
+   "name": "Punch Thumb Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 32,
+   "program": 37
+  },
+  {
+   "number": 413,
+   "name": "Slap Bass 2",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 38
+  },
+  {
+   "number": 414,
+   "name": "Velocity Switch Slap",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 43,
+   "program": 38
+  },
+  {
+   "number": 415,
+   "name": "Synth Bass 1",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 39
+  },
+  {
+   "number": 416,
+   "name": "Techno Synth Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 40,
+   "program": 39
+  },
+  {
+   "number": 417,
+   "name": "Synth Bass 2",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 40
+  },
+  {
+   "number": 418,
+   "name": "Mellow Synth Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 6,
+   "program": 40
+  },
+  {
+   "number": 419,
+   "name": "Sequenced Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 12,
+   "program": 40
+  },
+  {
+   "number": 420,
+   "name": "Click Synth Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 18,
+   "program": 40
+  },
+  {
+   "number": 421,
+   "name": "Synth Bass 2 Dark",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 19,
+   "program": 40
+  },
+  {
+   "number": 422,
+   "name": "Modular Synth Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 40,
+   "program": 40
+  },
+  {
+   "number": 423,
+   "name": "DX Bass",
+   "category": "XG Bass",
+   "msb": 0,
+   "lsb": 41,
+   "program": 40
+  },
+  {
+   "number": 424,
+   "name": "Violin",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 0,
+   "program": 41
+  },
+  {
+   "number": 425,
+   "name": "Slow Violin",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 8,
+   "program": 41
+  },
+  {
+   "number": 426,
+   "name": "Viola",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 0,
+   "program": 42
+  },
+  {
+   "number": 427,
+   "name": "Cello",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 0,
+   "program": 43
+  },
+  {
+   "number": 428,
+   "name": "Contrabass",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 0,
+   "program": 44
+  },
+  {
+   "number": 429,
+   "name": "Tremolo Strings",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 0,
+   "program": 45
+  },
+  {
+   "number": 430,
+   "name": "Slow Tremolo Strings",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 8,
+   "program": 45
+  },
+  {
+   "number": 431,
+   "name": "Suspense Strings",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 40,
+   "program": 45
+  },
+  {
+   "number": 432,
+   "name": "Pizzicato Strings",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 0,
+   "program": 46
+  },
+  {
+   "number": 433,
+   "name": "Orchestral Harp",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 0,
+   "program": 47
+  },
+  {
+   "number": 434,
+   "name": "Timpani",
+   "category": "XG String",
+   "msb": 0,
+   "lsb": 0,
+   "program": 48
+  },
+  {
+   "number": 435,
+   "name": "Strings 1",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 0,
+   "program": 49
+  },
+  {
+   "number": 436,
+   "name": "Stereo Strings",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 3,
+   "program": 49
+  },
+  {
+   "number": 437,
+   "name": "Slow Strings",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 8,
+   "program": 49
+  },
+  {
+   "number": 438,
+   "name": "60s Strings",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 35,
+   "program": 49
+  },
+  {
+   "number": 439,
+   "name": "Orchestra 1",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 40,
+   "program": 49
+  },
+  {
+   "number": 440,
+   "name": "Orchestra 2",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 41,
+   "program": 49
+  },
+  {
+   "number": 441,
+   "name": "Tremolo Orchestra",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 42,
+   "program": 49
+  },
+  {
+   "number": 442,
+   "name": "Velocity Strings",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 45,
+   "program": 49
+  },
+  {
+   "number": 443,
+   "name": "Strings 2",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 0,
+   "program": 50
+  },
+  {
+   "number": 444,
+   "name": "Stereo Slow Strings",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 3,
+   "program": 50
+  },
+  {
+   "number": 445,
+   "name": "Legato Strings",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 8,
+   "program": 50
+  },
+  {
+   "number": 446,
+   "name": "Warm Strings",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 40,
+   "program": 50
+  },
+  {
+   "number": 447,
+   "name": "Kingdom",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 41,
+   "program": 50
+  },
+  {
+   "number": 448,
+   "name": "Synth Strings 1",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 0,
+   "program": 51
+  },
+  {
+   "number": 449,
+   "name": "Synth Strings 4",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 64,
+   "program": 51
+  },
+  {
+   "number": 450,
+   "name": "Synth Strings 2",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 0,
+   "program": 52
+  },
+  {
+   "number": 451,
+   "name": "Choir Aahs",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 0,
+   "program": 53
+  },
+  {
+   "number": 452,
+   "name": "Stereo Choir",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 3,
+   "program": 53
+  },
+  {
+   "number": 453,
+   "name": "Mellow Choir",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 32,
+   "program": 53
+  },
+  {
+   "number": 454,
+   "name": "Choir Strings",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 40,
+   "program": 53
+  },
+  {
+   "number": 455,
+   "name": "Voice Oohs",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 0,
+   "program": 54
+  },
+  {
+   "number": 456,
+   "name": "Synth Voice 1",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 0,
+   "program": 55
+  },
+  {
+   "number": 457,
+   "name": "Synth Voice 2",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 40,
+   "program": 55
+  },
+  {
+   "number": 458,
+   "name": "Choral",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 41,
+   "program": 55
+  },
+  {
+   "number": 459,
+   "name": "Analog Voice",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 64,
+   "program": 55
+  },
+  {
+   "number": 460,
+   "name": "Orchestra Hit 1",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 0,
+   "program": 56
+  },
+  {
+   "number": 461,
+   "name": "Orchestra Hit 2",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 35,
+   "program": 56
+  },
+  {
+   "number": 462,
+   "name": "Impact",
+   "category": "XG Ensemble",
+   "msb": 0,
+   "lsb": 64,
+   "program": 56
+  },
+  {
+   "number": 463,
+   "name": "Trumpet",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 57
+  },
+  {
+   "number": 464,
+   "name": "Warm Trumpet",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 32,
+   "program": 57
+  },
+  {
+   "number": 465,
+   "name": "Trombone 1",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 58
+  },
+  {
+   "number": 466,
+   "name": "Trombone 2",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 18,
+   "program": 58
+  },
+  {
+   "number": 467,
+   "name": "Tuba",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 59
+  },
+  {
+   "number": 468,
+   "name": "Muted Trumpet",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 60
+  },
+  {
+   "number": 469,
+   "name": "French Horn 1",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 61
+  },
+  {
+   "number": 470,
+   "name": "French Horn Solo",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 6,
+   "program": 61
+  },
+  {
+   "number": 471,
+   "name": "French Horn 2",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 32,
+   "program": 61
+  },
+  {
+   "number": 472,
+   "name": "Horn Orchestra",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 37,
+   "program": 61
+  },
+  {
+   "number": 473,
+   "name": "Brass Section",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 62
+  },
+  {
+   "number": 474,
+   "name": "Trumpet & Trombone Section",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 35,
+   "program": 62
+  },
+  {
+   "number": 475,
+   "name": "Synth Brass 1",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 63
+  },
+  {
+   "number": 476,
+   "name": "Resonant Synth Brass",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 20,
+   "program": 63
+  },
+  {
+   "number": 477,
+   "name": "Synth Brass 2",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 0,
+   "program": 64
+  },
+  {
+   "number": 478,
+   "name": "Soft Brass",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 18,
+   "program": 64
+  },
+  {
+   "number": 479,
+   "name": "Choir Brass",
+   "category": "XG Brass",
+   "msb": 0,
+   "lsb": 41,
+   "program": 64
+  },
+  {
+   "number": 480,
+   "name": "Soprano Sax",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 0,
+   "program": 65
+  },
+  {
+   "number": 481,
+   "name": "Alto Sax",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 0,
+   "program": 66
+  },
+  {
+   "number": 482,
+   "name": "Sax Section",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 40,
+   "program": 66
+  },
+  {
+   "number": 483,
+   "name": "Tenor Sax",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 0,
+   "program": 67
+  },
+  {
+   "number": 484,
+   "name": "Breathy Tenor Sax",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 40,
+   "program": 67
+  },
+  {
+   "number": 485,
+   "name": "Baritone Sax",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 0,
+   "program": 68
+  },
+  {
+   "number": 486,
+   "name": "Oboe",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 0,
+   "program": 69
+  },
+  {
+   "number": 487,
+   "name": "English Horn",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 0,
+   "program": 70
+  },
+  {
+   "number": 488,
+   "name": "Bassoon",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 0,
+   "program": 71
+  },
+  {
+   "number": 489,
+   "name": "Clarinet",
+   "category": "XG Reed",
+   "msb": 0,
+   "lsb": 0,
+   "program": 72
+  },
+  {
+   "number": 490,
+   "name": "Piccolo",
+   "category": "XG Pipe",
+   "msb": 0,
+   "lsb": 0,
+   "program": 73
+  },
+  {
+   "number": 491,
+   "name": "Flute",
+   "category": "XG Pipe",
+   "msb": 0,
+   "lsb": 0,
+   "program": 74
+  },
+  {
+   "number": 492,
+   "name": "Recorder",
+   "category": "XG Pipe",
+   "msb": 0,
+   "lsb": 0,
+   "program": 75
+  },
+  {
+   "number": 493,
+   "name": "Pan Flute",
+   "category": "XG Pipe",
+   "msb": 0,
+   "lsb": 0,
+   "program": 76
+  },
+  {
+   "number": 494,
+   "name": "Blown Bottle",
+   "category": "XG Pipe",
+   "msb": 0,
+   "lsb": 0,
+   "program": 77
+  },
+  {
+   "number": 495,
+   "name": "Whistle",
+   "category": "XG Pipe",
+   "msb": 0,
+   "lsb": 0,
+   "program": 79
+  },
+  {
+   "number": 496,
+   "name": "Ocarina",
+   "category": "XG Pipe",
+   "msb": 0,
+   "lsb": 0,
+   "program": 80
+  },
+  {
+   "number": 497,
+   "name": "Square Lead 1",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 0,
+   "program": 81
+  },
+  {
+   "number": 498,
+   "name": "Square Lead 2",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 6,
+   "program": 81
+  },
+  {
+   "number": 499,
+   "name": "LM Square",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 8,
+   "program": 81
+  },
+  {
+   "number": 500,
+   "name": "Hollow",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 18,
+   "program": 81
+  },
+  {
+   "number": 501,
+   "name": "Shroud",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 19,
+   "program": 81
+  },
+  {
+   "number": 502,
+   "name": "Mellow",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 64,
+   "program": 81
+  },
+  {
+   "number": 503,
+   "name": "Solo Sine",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 65,
+   "program": 81
+  },
+  {
+   "number": 504,
+   "name": "Sine Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 66,
+   "program": 81
+  },
+  {
+   "number": 505,
+   "name": "Sawtooth Lead 1",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 0,
+   "program": 82
+  },
+  {
+   "number": 506,
+   "name": "Sawtooth Lead 2",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 6,
+   "program": 82
+  },
+  {
+   "number": 507,
+   "name": "Thick Sawtooth",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 8,
+   "program": 82
+  },
+  {
+   "number": 508,
+   "name": "Dynamic Sawtooth",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 18,
+   "program": 82
+  },
+  {
+   "number": 509,
+   "name": "Digital Sawtooth",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 19,
+   "program": 82
+  },
+  {
+   "number": 510,
+   "name": "Big Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 20,
+   "program": 82
+  },
+  {
+   "number": 511,
+   "name": "Heavy Synth",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 24,
+   "program": 82
+  },
+  {
+   "number": 512,
+   "name": "Sequenced Analog",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 96,
+   "program": 82
+  },
+  {
+   "number": 513,
+   "name": "Calliope Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 0,
+   "program": 83
+  },
+  {
+   "number": 514,
+   "name": "Pure Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 65,
+   "program": 83
+  },
+  {
+   "number": 515,
+   "name": "Chiff Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 0,
+   "program": 84
+  },
+  {
+   "number": 516,
+   "name": "Charang Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 0,
+   "program": 85
+  },
+  {
+   "number": 517,
+   "name": "Distorted Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 64,
+   "program": 85
+  },
+  {
+   "number": 518,
+   "name": "Voice Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 0,
+   "program": 86
+  },
+  {
+   "number": 519,
+   "name": "Fifths Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 0,
+   "program": 87
+  },
+  {
+   "number": 520,
+   "name": "Big Five",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 35,
+   "program": 87
+  },
+  {
+   "number": 521,
+   "name": "Bass & Lead",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 0,
+   "program": 88
+  },
+  {
+   "number": 522,
+   "name": "Big & Low",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 16,
+   "program": 88
+  },
+  {
+   "number": 523,
+   "name": "Fat & Perky",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 64,
+   "program": 88
+  },
+  {
+   "number": 524,
+   "name": "Soft Whirl",
+   "category": "XG Synth Lead",
+   "msb": 0,
+   "lsb": 65,
+   "program": 88
+  },
+  {
+   "number": 525,
+   "name": "New Age Pad",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 0,
+   "program": 89
+  },
+  {
+   "number": 526,
+   "name": "Fantasy",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 64,
+   "program": 89
+  },
+  {
+   "number": 527,
+   "name": "Warm Pad",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 0,
+   "program": 90
+  },
+  {
+   "number": 528,
+   "name": "Poly Synth Pad",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 0,
+   "program": 91
+  },
+  {
+   "number": 529,
+   "name": "Choir Pad",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 0,
+   "program": 92
+  },
+  {
+   "number": 530,
+   "name": "Itopia",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 66,
+   "program": 92
+  },
+  {
+   "number": 531,
+   "name": "Bowed Pad",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 0,
+   "program": 93
+  },
+  {
+   "number": 532,
+   "name": "Metallic Pad",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 0,
+   "program": 94
+  },
+  {
+   "number": 533,
+   "name": "Halo Pad",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 0,
+   "program": 95
+  },
+  {
+   "number": 534,
+   "name": "Sweep Pad",
+   "category": "XG Synth Pad",
+   "msb": 0,
+   "lsb": 0,
+   "program": 96
+  },
+  {
+   "number": 535,
+   "name": "Rain",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 0,
+   "program": 97
+  },
+  {
+   "number": 536,
+   "name": "Harmo Rain",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 64,
+   "program": 97
+  },
+  {
+   "number": 537,
+   "name": "African Wind",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 65,
+   "program": 97
+  },
+  {
+   "number": 538,
+   "name": "Carib",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 66,
+   "program": 97
+  },
+  {
+   "number": 539,
+   "name": "Sound Track",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 0,
+   "program": 98
+  },
+  {
+   "number": 540,
+   "name": "Prologue",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 27,
+   "program": 98
+  },
+  {
+   "number": 541,
+   "name": "Crystal",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 0,
+   "program": 99
+  },
+  {
+   "number": 542,
+   "name": "Synth Drum Comp",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 12,
+   "program": 99
+  },
+  {
+   "number": 543,
+   "name": "Popcorn",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 14,
+   "program": 99
+  },
+  {
+   "number": 544,
+   "name": "Tiny Bells",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 18,
+   "program": 99
+  },
+  {
+   "number": 545,
+   "name": "Round Glockenspiel",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 35,
+   "program": 99
+  },
+  {
+   "number": 546,
+   "name": "Glockenspiel Chimes",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 40,
+   "program": 99
+  },
+  {
+   "number": 547,
+   "name": "Clear Bells",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 41,
+   "program": 99
+  },
+  {
+   "number": 548,
+   "name": "Chorus Bells",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 42,
+   "program": 99
+  },
+  {
+   "number": 549,
+   "name": "Soft Crystal",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 65,
+   "program": 99
+  },
+  {
+   "number": 550,
+   "name": "Air Bells",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 70,
+   "program": 99
+  },
+  {
+   "number": 551,
+   "name": "Bell Harp",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 71,
+   "program": 99
+  },
+  {
+   "number": 552,
+   "name": "Gamelimba",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 72,
+   "program": 99
+  },
+  {
+   "number": 553,
+   "name": "Atmosphere",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 0,
+   "program": 100
+  },
+  {
+   "number": 554,
+   "name": "Warm Atmosphere",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 18,
+   "program": 100
+  },
+  {
+   "number": 555,
+   "name": "Hollow Release",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 19,
+   "program": 100
+  },
+  {
+   "number": 556,
+   "name": "Nylon Electric Piano",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 40,
+   "program": 100
+  },
+  {
+   "number": 557,
+   "name": "Nylon Harp",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 64,
+   "program": 100
+  },
+  {
+   "number": 558,
+   "name": "Harp Vox",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 65,
+   "program": 100
+  },
+  {
+   "number": 559,
+   "name": "Atmosphere Pad",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 66,
+   "program": 100
+  },
+  {
+   "number": 560,
+   "name": "Brightness",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 0,
+   "program": 101
+  },
+  {
+   "number": 561,
+   "name": "Goblins",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 0,
+   "program": 102
+  },
+  {
+   "number": 562,
+   "name": "Goblins Synth",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 64,
+   "program": 102
+  },
+  {
+   "number": 563,
+   "name": "Creeper",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 65,
+   "program": 102
+  },
+  {
+   "number": 564,
+   "name": "Ritual",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 67,
+   "program": 102
+  },
+  {
+   "number": 565,
+   "name": "To Heaven",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 68,
+   "program": 102
+  },
+  {
+   "number": 566,
+   "name": "Night",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 70,
+   "program": 102
+  },
+  {
+   "number": 567,
+   "name": "Glisten",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 71,
+   "program": 102
+  },
+  {
+   "number": 568,
+   "name": "Bell Choir",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 96,
+   "program": 102
+  },
+  {
+   "number": 569,
+   "name": "Echoes",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 0,
+   "program": 103
+  },
+  {
+   "number": 570,
+   "name": "Big Pan",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 65,
+   "program": 103
+  },
+  {
+   "number": 571,
+   "name": "Sci-Fi",
+   "category": "XG Synth Effects",
+   "msb": 0,
+   "lsb": 0,
+   "program": 104
+  },
+  {
+   "number": 572,
+   "name": "Shakuhachi",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 78
+  },
+  {
+   "number": 573,
+   "name": "Tamboura",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 97,
+   "program": 105
+  },
+  {
+   "number": 574,
+   "name": "Banjo",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 106
+  },
+  {
+   "number": 575,
+   "name": "Muted Banjo",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 28,
+   "program": 106
+  },
+  {
+   "number": 576,
+   "name": "Pungi",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 96,
+   "program": 112
+  },
+  {
+   "number": 577,
+   "name": "Sitar 1",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 105
+  },
+  {
+   "number": 578,
+   "name": "Detuned Sitar",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 32,
+   "program": 105
+  },
+  {
+   "number": 579,
+   "name": "Sitar 2",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 35,
+   "program": 105
+  },
+  {
+   "number": 580,
+   "name": "Shehnai",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 0,
+   "program": 112
+  },
+  {
+   "number": 581,
+   "name": "Gopichant",
+   "category": "XG World",
+   "msb": 0,
+   "lsb": 97,
+   "program": 106
+  },
+  {
+   "number": 582,
+   "name": "Tinkle Bell",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 0,
+   "program": 113
+  },
+  {
+   "number": 583,
+   "name": "Bonang",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 96,
+   "program": 113
+  },
+  {
+   "number": 584,
+   "name": "Altair",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 97,
+   "program": 113
+  },
+  {
+   "number": 585,
+   "name": "Gamelan Gongs",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 98,
+   "program": 113
+  },
+  {
+   "number": 586,
+   "name": "Stereo Gamelan Gongs",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 99,
+   "program": 113
+  },
+  {
+   "number": 587,
+   "name": "Rama Cymbal",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 100,
+   "program": 113
+  },
+  {
+   "number": 588,
+   "name": "Agogo",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 0,
+   "program": 114
+  },
+  {
+   "number": 589,
+   "name": "Steel Drums",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 0,
+   "program": 115
+  },
+  {
+   "number": 590,
+   "name": "Glass Percussion",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 97,
+   "program": 115
+  },
+  {
+   "number": 591,
+   "name": "Thai Bells",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 98,
+   "program": 115
+  },
+  {
+   "number": 592,
+   "name": "Woodblock",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 0,
+   "program": 116
+  },
+  {
+   "number": 593,
+   "name": "Castanets",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 96,
+   "program": 116
+  },
+  {
+   "number": 594,
+   "name": "Taiko Drum",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 0,
+   "program": 117
+  },
+  {
+   "number": 595,
+   "name": "Gran Cassa",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 96,
+   "program": 117
+  },
+  {
+   "number": 596,
+   "name": "Melodic Tom 1",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 0,
+   "program": 118
+  },
+  {
+   "number": 597,
+   "name": "Melodic Tom 2",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 64,
+   "program": 118
+  },
+  {
+   "number": 598,
+   "name": "Real Tom",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 65,
+   "program": 118
+  },
+  {
+   "number": 599,
+   "name": "Rock Tom",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 66,
+   "program": 118
+  },
+  {
+   "number": 600,
+   "name": "Synth Drum",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 0,
+   "program": 119
+  },
+  {
+   "number": 601,
+   "name": "Analog Tom",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 64,
+   "program": 119
+  },
+  {
+   "number": 602,
+   "name": "Electronic Percussion",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 65,
+   "program": 119
+  },
+  {
+   "number": 603,
+   "name": "Reverse Cymbal",
+   "category": "XG Percussive",
+   "msb": 0,
+   "lsb": 0,
+   "program": 120
+  },
+  {
+   "number": 604,
+   "name": "Cutting Noise 1",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 1
+  },
+  {
+   "number": 605,
+   "name": "Cutting Noise 2",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 2
+  },
+  {
+   "number": 606,
+   "name": "String Slap",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 4
+  },
+  {
+   "number": 607,
+   "name": "Flute Key Click",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 17
+  },
+  {
+   "number": 608,
+   "name": "Shower",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 33
+  },
+  {
+   "number": 609,
+   "name": "Thunder",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 34
+  },
+  {
+   "number": 610,
+   "name": "Wind",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 35
+  },
+  {
+   "number": 611,
+   "name": "Stream",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 36
+  },
+  {
+   "number": 612,
+   "name": "Bubble",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 37
+  },
+  {
+   "number": 613,
+   "name": "Feed",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 38
+  },
+  {
+   "number": 614,
+   "name": "Dog",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 49
+  },
+  {
+   "number": 615,
+   "name": "Horse",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 50
+  },
+  {
+   "number": 616,
+   "name": "Bird Tweet 2",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 51
+  },
+  {
+   "number": 617,
+   "name": "Maou",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 56
+  },
+  {
+   "number": 618,
+   "name": "Phone Call",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 65
+  },
+  {
+   "number": 619,
+   "name": "Door Squeak",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 66
+  },
+  {
+   "number": 620,
+   "name": "Door Slam",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 67
+  },
+  {
+   "number": 621,
+   "name": "Scratch Cut",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 68
+  },
+  {
+   "number": 622,
+   "name": "Scratch Split",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 69
+  },
+  {
+   "number": 623,
+   "name": "Wind Chime",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 70
+  },
+  {
+   "number": 624,
+   "name": "Telephone Ring 2",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 71
+  },
+  {
+   "number": 625,
+   "name": "Car Engine Ignition",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 81
+  },
+  {
+   "number": 626,
+   "name": "Car Tires Squeal",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 82
+  },
+  {
+   "number": 627,
+   "name": "Car Passing",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 83
+  },
+  {
+   "number": 628,
+   "name": "Car Crash",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 84
+  },
+  {
+   "number": 629,
+   "name": "Siren",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 85
+  },
+  {
+   "number": 630,
+   "name": "Train",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 86
+  },
+  {
+   "number": 631,
+   "name": "Jet Plane",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 87
+  },
+  {
+   "number": 632,
+   "name": "Starship",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 88
+  },
+  {
+   "number": 633,
+   "name": "Burst",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 89
+  },
+  {
+   "number": 634,
+   "name": "Roller Coaster",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 90
+  },
+  {
+   "number": 635,
+   "name": "Submarine",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 91
+  },
+  {
+   "number": 636,
+   "name": "Laugh",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 97
+  },
+  {
+   "number": 637,
+   "name": "Scream",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 98
+  },
+  {
+   "number": 638,
+   "name": "Punch",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 99
+  },
+  {
+   "number": 639,
+   "name": "Heartbeat",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 100
+  },
+  {
+   "number": 640,
+   "name": "Footsteps",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 101
+  },
+  {
+   "number": 641,
+   "name": "Machine Gun",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 113
+  },
+  {
+   "number": 642,
+   "name": "Laser Gun",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 114
+  },
+  {
+   "number": 643,
+   "name": "Explosion",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 115
+  },
+  {
+   "number": 644,
+   "name": "Firework",
+   "category": "XG Sound Effects",
+   "msb": 64,
+   "lsb": 0,
+   "program": 116
+  }
+ ],
+ "styleCategories": [
+  "Indian",
+  "Pop & Rock",
+  "Ballad",
+  "Dance",
+  "Swing & Jazz",
+  "R&B",
+  "Country",
+  "Latin",
+  "World",
+  "Ballroom",
+  "Traditional",
+  "Waltz",
+  "Children",
+  "Pianist"
+ ],
+ "styles": [
+  {
+   "number": 1,
+   "name": "RamBhajan",
+   "category": "Indian"
+  },
+  {
+   "number": 2,
+   "name": "Navtra",
+   "category": "Indian"
+  },
+  {
+   "number": 3,
+   "name": "Rang",
+   "category": "Indian"
+  },
+  {
+   "number": 4,
+   "name": "Patriotic",
+   "category": "Indian"
+  },
+  {
+   "number": 5,
+   "name": "SandGroove",
+   "category": "Indian"
+  },
+  {
+   "number": 6,
+   "name": "HouseTabla",
+   "category": "Indian"
+  },
+  {
+   "number": 7,
+   "name": "Bollywood 1",
+   "category": "Indian"
+  },
+  {
+   "number": 8,
+   "name": "Bollywood 2",
+   "category": "Indian"
+  },
+  {
+   "number": 9,
+   "name": "Bollywood 3",
+   "category": "Indian"
+  },
+  {
+   "number": 10,
+   "name": "Bollywood 4",
+   "category": "Indian"
+  },
+  {
+   "number": 11,
+   "name": "HindiBallad",
+   "category": "Indian"
+  },
+  {
+   "number": 12,
+   "name": "IndianWaltz",
+   "category": "Indian"
+  },
+  {
+   "number": 13,
+   "name": "IndianDance 1",
+   "category": "Indian"
+  },
+  {
+   "number": 14,
+   "name": "IndianDance 2",
+   "category": "Indian"
+  },
+  {
+   "number": 15,
+   "name": "Tamil",
+   "category": "Indian"
+  },
+  {
+   "number": 16,
+   "name": "Kerala",
+   "category": "Indian"
+  },
+  {
+   "number": 17,
+   "name": "GoaGroove",
+   "category": "Indian"
+  },
+  {
+   "number": 18,
+   "name": "Rajasthan",
+   "category": "Indian"
+  },
+  {
+   "number": 19,
+   "name": "Dandiya",
+   "category": "Indian"
+  },
+  {
+   "number": 20,
+   "name": "Garba",
+   "category": "Indian"
+  },
+  {
+   "number": 21,
+   "name": "Bhangra 1",
+   "category": "Indian"
+  },
+  {
+   "number": 22,
+   "name": "Bhangra 2",
+   "category": "Indian"
+  },
+  {
+   "number": 23,
+   "name": "BaleBale",
+   "category": "Indian"
+  },
+  {
+   "number": 24,
+   "name": "South",
+   "category": "Indian"
+  },
+  {
+   "number": 25,
+   "name": "Bhajan 1",
+   "category": "Indian"
+  },
+  {
+   "number": 26,
+   "name": "Bhajan 2",
+   "category": "Indian"
+  },
+  {
+   "number": 27,
+   "name": "ModernQawwali",
+   "category": "Indian"
+  },
+  {
+   "number": 28,
+   "name": "Qawwali",
+   "category": "Indian"
+  },
+  {
+   "number": 29,
+   "name": "Gurbani",
+   "category": "Indian"
+  },
+  {
+   "number": 30,
+   "name": "Prayer",
+   "category": "Indian"
+  },
+  {
+   "number": 31,
+   "name": "BritPopRock",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 32,
+   "name": "8BeatModern",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 33,
+   "name": "Cool8Beat",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 34,
+   "name": "Happy8Beat",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 35,
+   "name": "Shake8Beat",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 36,
+   "name": "BoyBandPop",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 37,
+   "name": "SweetPop",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 38,
+   "name": "ContemporaryRock",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 39,
+   "name": "StadiumRock",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 40,
+   "name": "70sRock",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 41,
+   "name": "HardRock 1",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 42,
+   "name": "60sGuitarPop",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 43,
+   "name": "8BeatAdria",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 44,
+   "name": "60s8Beat",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 45,
+   "name": "8Beat",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 46,
+   "name": "OffBeat",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 47,
+   "name": "Folkrock",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 48,
+   "name": "60sRock",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 49,
+   "name": "HardRock 2",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 50,
+   "name": "RockShuffle",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 51,
+   "name": "8BeatRock",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 52,
+   "name": "16Beat",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 53,
+   "name": "DancehallPop",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 54,
+   "name": "CinematicPop",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 55,
+   "name": "PopShuffle",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 56,
+   "name": "GuitarPop",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 57,
+   "name": "16BeatUptempo",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 58,
+   "name": "KoolShuffle",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 59,
+   "name": "HipHopLight",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 60,
+   "name": "70sGlamPiano",
+   "category": "Ballad"
+  },
+  {
+   "number": 61,
+   "name": "EpicDivaBallad",
+   "category": "Ballad"
+  },
+  {
+   "number": 62,
+   "name": "OrchestraRockBallad",
+   "category": "Ballad"
+  },
+  {
+   "number": 63,
+   "name": "PianoBallad",
+   "category": "Ballad"
+  },
+  {
+   "number": 64,
+   "name": "LoveSong",
+   "category": "Ballad"
+  },
+  {
+   "number": 65,
+   "name": "6/8ModernEP",
+   "category": "Ballad"
+  },
+  {
+   "number": 66,
+   "name": "6/8SlowRock",
+   "category": "Ballad"
+  },
+  {
+   "number": 67,
+   "name": "OrganBallad",
+   "category": "Ballad"
+  },
+  {
+   "number": 68,
+   "name": "PopBallad",
+   "category": "Ballad"
+  },
+  {
+   "number": 69,
+   "name": "16BeatBallad",
+   "category": "Ballad"
+  },
+  {
+   "number": 70,
+   "name": "ClubBeat",
+   "category": "Dance"
+  },
+  {
+   "number": 71,
+   "name": "SkyPop",
+   "category": "Dance"
+  },
+  {
+   "number": 72,
+   "name": "AgagBeat",
+   "category": "Dance"
+  },
+  {
+   "number": 73,
+   "name": "Electronica",
+   "category": "Dance"
+  },
+  {
+   "number": 74,
+   "name": "FunkyHouse",
+   "category": "Dance"
+  },
+  {
+   "number": 75,
+   "name": "RetroClub",
+   "category": "Dance"
+  },
+  {
+   "number": 76,
+   "name": "USHipHop",
+   "category": "Dance"
+  },
+  {
+   "number": 77,
+   "name": "MellowHipHop",
+   "category": "Dance"
+  },
+  {
+   "number": 78,
+   "name": "Chillout",
+   "category": "Dance"
+  },
+  {
+   "number": 79,
+   "name": "EuroTrance",
+   "category": "Dance"
+  },
+  {
+   "number": 80,
+   "name": "Ibiza",
+   "category": "Dance"
+  },
+  {
+   "number": 81,
+   "name": "SwingHouse",
+   "category": "Dance"
+  },
+  {
+   "number": 82,
+   "name": "PSR-I300 Owner’s Manual",
+   "category": "Pop & Rock"
+  },
+  {
+   "number": 83,
+   "name": "ClubLatin",
+   "category": "Dance"
+  },
+  {
+   "number": 84,
+   "name": "Garage 1",
+   "category": "Dance"
+  },
+  {
+   "number": 85,
+   "name": "Garage 2",
+   "category": "Dance"
+  },
+  {
+   "number": 86,
+   "name": "TechnoParty",
+   "category": "Dance"
+  },
+  {
+   "number": 87,
+   "name": "UKPop",
+   "category": "Dance"
+  },
+  {
+   "number": 88,
+   "name": "HipHopGroove",
+   "category": "Dance"
+  },
+  {
+   "number": 89,
+   "name": "HipShuffle",
+   "category": "Dance"
+  },
+  {
+   "number": 90,
+   "name": "HipHopPop",
+   "category": "Dance"
+  },
+  {
+   "number": 91,
+   "name": "ModernDisco",
+   "category": "Dance"
+  },
+  {
+   "number": 92,
+   "name": "70sDisco",
+   "category": "Dance"
+  },
+  {
+   "number": 93,
+   "name": "LatinDisco",
+   "category": "Dance"
+  },
+  {
+   "number": 94,
+   "name": "SaturdayNight",
+   "category": "Dance"
+  },
+  {
+   "number": 95,
+   "name": "DiscoHands",
+   "category": "Dance"
+  },
+  {
+   "number": 96,
+   "name": "BigBandFast",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 97,
+   "name": "BigBandBallad",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 98,
+   "name": "AcousticJazz",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 99,
+   "name": "AcidJazz",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 100,
+   "name": "JazzClub",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 101,
+   "name": "Swing 1",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 102,
+   "name": "Swing 2",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 103,
+   "name": "Five/Four",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 104,
+   "name": "Dixieland",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 105,
+   "name": "Ragtime",
+   "category": "Swing & Jazz"
+  },
+  {
+   "number": 106,
+   "name": "BluesRock",
+   "category": "R&B"
+  },
+  {
+   "number": 107,
+   "name": "UKSoul",
+   "category": "R&B"
+  },
+  {
+   "number": 108,
+   "name": "JustR&B",
+   "category": "R&B"
+  },
+  {
+   "number": 109,
+   "name": "WorshipAcoustic 1",
+   "category": "R&B"
+  },
+  {
+   "number": 110,
+   "name": "WorshipAcoustic 2",
+   "category": "R&B"
+  },
+  {
+   "number": 111,
+   "name": "WorshipRockBallad",
+   "category": "R&B"
+  },
+  {
+   "number": 112,
+   "name": "Soul",
+   "category": "R&B"
+  },
+  {
+   "number": 113,
+   "name": "DetroitPop",
+   "category": "R&B"
+  },
+  {
+   "number": 114,
+   "name": "60sRock&Roll",
+   "category": "R&B"
+  },
+  {
+   "number": 115,
+   "name": "6/8Soul",
+   "category": "R&B"
+  },
+  {
+   "number": 116,
+   "name": "CrocoTwist",
+   "category": "R&B"
+  },
+  {
+   "number": 117,
+   "name": "Rock&Roll",
+   "category": "R&B"
+  },
+  {
+   "number": 118,
+   "name": "ComboBoogie",
+   "category": "R&B"
+  },
+  {
+   "number": 119,
+   "name": "6/8Blues",
+   "category": "R&B"
+  },
+  {
+   "number": 120,
+   "name": "CountryPop",
+   "category": "Country"
+  },
+  {
+   "number": 121,
+   "name": "CountrySwing",
+   "category": "Country"
+  },
+  {
+   "number": 122,
+   "name": "Country2/4",
+   "category": "Country"
+  },
+  {
+   "number": 123,
+   "name": "Bluegrass",
+   "category": "Country"
+  },
+  {
+   "number": 124,
+   "name": "BrazilianSamba",
+   "category": "Latin"
+  },
+  {
+   "number": 125,
+   "name": "BrazilianBossa",
+   "category": "Latin"
+  },
+  {
+   "number": 126,
+   "name": "Bachata",
+   "category": "Latin"
+  },
+  {
+   "number": 127,
+   "name": "CubanSon",
+   "category": "Latin"
+  },
+  {
+   "number": 128,
+   "name": "Guajira",
+   "category": "Latin"
+  },
+  {
+   "number": 129,
+   "name": "BossaNova",
+   "category": "Latin"
+  },
+  {
+   "number": 130,
+   "name": "Forro",
+   "category": "Latin"
+  },
+  {
+   "number": 131,
+   "name": "Sertanejo 1",
+   "category": "Latin"
+  },
+  {
+   "number": 132,
+   "name": "Sertanejo 2",
+   "category": "Latin"
+  },
+  {
+   "number": 133,
+   "name": "Baião",
+   "category": "Latin"
+  },
+  {
+   "number": 134,
+   "name": "TangoArgentino",
+   "category": "Latin"
+  },
+  {
+   "number": 135,
+   "name": "CumbiaPeruana",
+   "category": "Latin"
+  },
+  {
+   "number": 136,
+   "name": "CumbiaColombiana",
+   "category": "Latin"
+  },
+  {
+   "number": 137,
+   "name": "Vallenato",
+   "category": "Latin"
+  },
+  {
+   "number": 138,
+   "name": "Joropo",
+   "category": "Latin"
+  },
+  {
+   "number": 139,
+   "name": "Parranda",
+   "category": "Latin"
+  },
+  {
+   "number": 140,
+   "name": "Merengue",
+   "category": "Latin"
+  },
+  {
+   "number": 141,
+   "name": "ReggaetonPop",
+   "category": "Latin"
+  },
+  {
+   "number": 142,
+   "name": "Reggaeton",
+   "category": "Latin"
+  },
+  {
+   "number": 143,
+   "name": "Tijuana",
+   "category": "Latin"
+  },
+  {
+   "number": 144,
+   "name": "PasoDuranguense",
+   "category": "Latin"
+  },
+  {
+   "number": 145,
+   "name": "CumbiaGrupera",
+   "category": "Latin"
+  },
+  {
+   "number": 146,
+   "name": "BaladaBanda",
+   "category": "Latin"
+  },
+  {
+   "number": 147,
+   "name": "MexicanMambo",
+   "category": "Latin"
+  },
+  {
+   "number": 148,
+   "name": "Mambo",
+   "category": "Latin"
+  },
+  {
+   "number": 149,
+   "name": "Salsa",
+   "category": "Latin"
+  },
+  {
+   "number": 150,
+   "name": "Beguine",
+   "category": "Latin"
+  },
+  {
+   "number": 151,
+   "name": "Reggae",
+   "category": "Latin"
+  },
+  {
+   "number": 152,
+   "name": "Hawaiian",
+   "category": "World"
+  },
+  {
+   "number": 153,
+   "name": "CelticDance",
+   "category": "World"
+  },
+  {
+   "number": 154,
+   "name": "ScottishReel",
+   "category": "World"
+  },
+  {
+   "number": 155,
+   "name": "4/4Standart",
+   "category": "World"
+  },
+  {
+   "number": 156,
+   "name": "Rumba2/4",
+   "category": "World"
+  },
+  {
+   "number": 157,
+   "name": "Saeidy",
+   "category": "World"
+  },
+  {
+   "number": 158,
+   "name": "WehdaSaghira",
+   "category": "World"
+  },
+  {
+   "number": 159,
+   "name": "IranianElec",
+   "category": "World"
+  },
+  {
+   "number": 160,
+   "name": "Emarati",
+   "category": "World"
+  },
+  {
+   "number": 161,
+   "name": "AfricanGospelReggae",
+   "category": "World"
+  },
+  {
+   "number": 162,
+   "name": "HighLife 1",
+   "category": "World"
+  },
+  {
+   "number": 163,
+   "name": "AfricanGospel",
+   "category": "World"
+  },
+  {
+   "number": 164,
+   "name": "Makossa",
+   "category": "World"
+  },
+  {
+   "number": 165,
+   "name": "ModernAfrobeat",
+   "category": "World"
+  },
+  {
+   "number": 166,
+   "name": "HighLife 2",
+   "category": "World"
+  },
+  {
+   "number": 167,
+   "name": "OrganHighLife",
+   "category": "World"
+  },
+  {
+   "number": 168,
+   "name": "IgboHighLife",
+   "category": "World"
+  },
+  {
+   "number": 169,
+   "name": "SocaCalypso",
+   "category": "World"
+  },
+  {
+   "number": 170,
+   "name": "Azonto",
+   "category": "World"
+  },
+  {
+   "number": 171,
+   "name": "ModernDangdut 1",
+   "category": "World"
+  },
+  {
+   "number": 172,
+   "name": "Keroncong",
+   "category": "World"
+  },
+  {
+   "number": 173,
+   "name": "ModernDangdut 2",
+   "category": "World"
+  },
+  {
+   "number": 174,
+   "name": "DangdutUmum",
+   "category": "World"
+  },
+  {
+   "number": 175,
+   "name": "DangdutSlowLegend",
+   "category": "World"
+  },
+  {
+   "number": 176,
+   "name": "Dangdut3/4",
+   "category": "World"
+  },
+  {
+   "number": 177,
+   "name": "KoploRampak",
+   "category": "World"
+  },
+  {
+   "number": 178,
+   "name": "LanggamModern",
+   "category": "World"
+  },
+  {
+   "number": 179,
+   "name": "DangdutJawa",
+   "category": "World"
+  },
+  {
+   "number": 180,
+   "name": "Congdut",
+   "category": "World"
+  },
+  {
+   "number": 181,
+   "name": "VietnamesePopBallad",
+   "category": "World"
+  },
+  {
+   "number": 182,
+   "name": "Vietnamese6/8Ballad",
+   "category": "World"
+  },
+  {
+   "number": 183,
+   "name": "XiQingLuoGu",
+   "category": "World"
+  },
+  {
+   "number": 184,
+   "name": "YiZuMinGe",
+   "category": "World"
+  },
+  {
+   "number": 185,
+   "name": "JingJuJieZou",
+   "category": "World"
+  },
+  {
+   "number": 186,
+   "name": "VienneseWaltz",
+   "category": "Ballroom"
+  },
+  {
+   "number": 187,
+   "name": "EnglishWaltz",
+   "category": "Ballroom"
+  },
+  {
+   "number": 188,
+   "name": "Slowfox",
+   "category": "Ballroom"
+  },
+  {
+   "number": 189,
+   "name": "Foxtrot",
+   "category": "Ballroom"
+  },
+  {
+   "number": 190,
+   "name": "Quickstep",
+   "category": "Ballroom"
+  },
+  {
+   "number": 191,
+   "name": "Tango",
+   "category": "Ballroom"
+  },
+  {
+   "number": 192,
+   "name": "Pasodoble",
+   "category": "Ballroom"
+  },
+  {
+   "number": 193,
+   "name": "Samba",
+   "category": "Ballroom"
+  },
+  {
+   "number": 194,
+   "name": "ChaChaCha",
+   "category": "Ballroom"
+  },
+  {
+   "number": 195,
+   "name": "Rumba",
+   "category": "Ballroom"
+  },
+  {
+   "number": 196,
+   "name": "Jive",
+   "category": "Ballroom"
+  },
+  {
+   "number": 197,
+   "name": "US March",
+   "category": "Traditional"
+  },
+  {
+   "number": 198,
+   "name": "6/8March",
+   "category": "Traditional"
+  },
+  {
+   "number": 199,
+   "name": "GermanMarch",
+   "category": "Traditional"
+  },
+  {
+   "number": 200,
+   "name": "PolkaPop",
+   "category": "Traditional"
+  },
+  {
+   "number": 201,
+   "name": "OberkrainerPolka",
+   "category": "Traditional"
+  },
+  {
+   "number": 202,
+   "name": "Tarantella",
+   "category": "Traditional"
+  },
+  {
+   "number": 203,
+   "name": "Showtune",
+   "category": "Traditional"
+  },
+  {
+   "number": 204,
+   "name": "ChristmasSwing",
+   "category": "Traditional"
+  },
+  {
+   "number": 205,
+   "name": "ChristmasWaltz",
+   "category": "Traditional"
+  },
+  {
+   "number": 206,
+   "name": "ItalianWaltz",
+   "category": "Waltz"
+  },
+  {
+   "number": 207,
+   "name": "SwingWaltz",
+   "category": "Waltz"
+  },
+  {
+   "number": 208,
+   "name": "JazzWaltz",
+   "category": "Waltz"
+  },
+  {
+   "number": 209,
+   "name": "ValsMexicano",
+   "category": "Waltz"
+  },
+  {
+   "number": 210,
+   "name": "CountryWaltz",
+   "category": "Waltz"
+  },
+  {
+   "number": 211,
+   "name": "OberkrainerWalzer",
+   "category": "Waltz"
+  },
+  {
+   "number": 212,
+   "name": "Musette",
+   "category": "Waltz"
+  },
+  {
+   "number": 213,
+   "name": "Learning2/4",
+   "category": "Children"
+  },
+  {
+   "number": 214,
+   "name": "Learning4/4",
+   "category": "Children"
+  },
+  {
+   "number": 215,
+   "name": "Learning6/8",
+   "category": "Children"
+  },
+  {
+   "number": 216,
+   "name": "Stride",
+   "category": "Pianist"
+  },
+  {
+   "number": 217,
+   "name": "PianoSwing",
+   "category": "Pianist"
+  },
+  {
+   "number": 218,
+   "name": "PianoBoogie",
+   "category": "Pianist"
+  },
+  {
+   "number": 219,
+   "name": "Arpeggio",
+   "category": "Pianist"
+  },
+  {
+   "number": 220,
+   "name": "Habanera",
+   "category": "Pianist"
+  },
+  {
+   "number": 221,
+   "name": "SlowRock",
+   "category": "Pianist"
+  },
+  {
+   "number": 222,
+   "name": "8BeatPianoBallad",
+   "category": "Pianist"
+  },
+  {
+   "number": 223,
+   "name": "6/8PianoMarch",
+   "category": "Pianist"
+  },
+  {
+   "number": 224,
+   "name": "PianoWaltz",
+   "category": "Pianist"
+  }
+ ],
+ "source": "PSR-I300 Owner's Manual (Yamaha, edition c0): voices pp.70-75, styles pp.82-83. Voice numbers, Bank MSB/LSB and program numbers read from Yamaha's voice table; Local Control and External Clock appear in the Function list, so they are treated as supported (confirm on the keyboard). SysEx, identity reply and user style slots are not verified (null): styles play from the phone."
+}
