@@ -1,0 +1,45 @@
+{
+  "indexVersion": 1,
+  "profiles": [
+    {
+      "id": "yamaha-psr-e473",
+      "manufacturer": "Yamaha",
+      "model": "PSR-E473",
+      "shortName": "E473",
+      "summary": "820 voices · 290 styles · style slots 291–300",
+      "file": "profiles/yamaha-psr-e473.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.10.19",
+      "sizeBytes": 131072,
+      "sha256": "2a2191ab9de305a88c9533869db6ea520a4b725eb88f41c32012864f4a8fd345",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": "0044",
+        "modelCode": "361F"
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    },
+    {
+      "id": "yamaha-psr-i500",
+      "manufacturer": "Yamaha",
+      "model": "PSR-I500",
+      "shortName": "I500",
+      "summary": "801 voices (40 Indian) · 282 styles · style slots 283–292",
+      "file": "profiles/yamaha-psr-i500.json",
+      "schemaVersion": 1,
+      "profileVersion": "2026.09.17",
+      "sizeBytes": 125995,
+      "sha256": "11e5fb095ce5776936213babf176bbe623fdbb05096943a40d973402e6a8dbe8",
+      "identity": {
+        "manufacturerId": "43",
+        "familyCode": null,
+        "modelCode": null
+      },
+      "usbProductNames": [
+        "Digital Keyboard"
+      ]
+    }
+  ]
+}
