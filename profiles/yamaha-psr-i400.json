@@ -82,6 +82,7 @@
   "XG Ensemble",
   "XG Brass",
   "XG Reed",
+  "XG Pipe",
   "XG Synth Lead",
   "XG Synth Pad",
   "XG Synth Effects",
@@ -4528,7 +4529,7 @@
   {
    "number": 552,
    "name": "Piccolo",
-   "category": "XG Reed",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 73
@@ -4536,7 +4537,7 @@
   {
    "number": 553,
    "name": "Flute",
-   "category": "XG Reed",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 74
@@ -4544,7 +4545,7 @@
   {
    "number": 554,
    "name": "Recorder",
-   "category": "XG Reed",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 75
@@ -4552,7 +4553,7 @@
   {
    "number": 555,
    "name": "Pan Flute",
-   "category": "XG Reed",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 76
@@ -4560,7 +4561,7 @@
   {
    "number": 556,
    "name": "Blown Bottle",
-   "category": "XG Reed",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 77
@@ -4568,7 +4569,7 @@
   {
    "number": 557,
    "name": "Shakuhachi",
-   "category": "XG Reed",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 78
@@ -4576,7 +4577,7 @@
   {
    "number": 558,
    "name": "Whistle",
-   "category": "XG Reed",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 79
@@ -4584,7 +4585,7 @@
   {
    "number": 559,
    "name": "Ocarina",
-   "category": "XG Reed",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 80

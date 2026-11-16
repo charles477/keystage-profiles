@@ -63,7 +63,24 @@
   "Brass & Woodwind",
   "World",
   "Synth",
-  "Perc. & Drums"
+  "Perc. & Drums",
+  "Arpeggio",
+  "XG Piano",
+  "XG Chromatic Perc.",
+  "XG Organ",
+  "XG Guitar",
+  "XG Bass",
+  "XG Strings",
+  "XG Ensemble",
+  "XG Brass",
+  "XG Reed",
+  "XG Pipe",
+  "XG Synth Lead",
+  "XG Synth Pad",
+  "XG Synth Effects",
+  "XG Ethnic",
+  "XG Percussive",
+  "XG Sound Effects"
  ],
  "voices": [
   {
@@ -3544,7 +3561,7 @@
   {
    "number": 430,
    "name": "Concerto",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3552,7 +3569,7 @@
   {
    "number": 431,
    "name": "Chambers",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3560,7 +3577,7 @@
   {
    "number": 432,
    "name": "Pizzicato Strings",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3568,7 +3585,7 @@
   {
    "number": 433,
    "name": "Latin Rock",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3576,7 +3593,7 @@
   {
    "number": 434,
    "name": "Brass Section 1",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3584,7 +3601,7 @@
   {
    "number": 435,
    "name": "Brass Section 2",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3592,7 +3609,7 @@
   {
    "number": 436,
    "name": "Funk Brass",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3600,7 +3617,7 @@
   {
    "number": 437,
    "name": "Piano Chord",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3608,7 +3625,7 @@
   {
    "number": 438,
    "name": "Piano Ballad",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3616,7 +3633,7 @@
   {
    "number": 439,
    "name": "Piano Arpeggio",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3624,7 +3641,7 @@
   {
    "number": 440,
    "name": "Hybrid",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3632,7 +3649,7 @@
   {
    "number": 441,
    "name": "Synth Sequence",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3640,7 +3657,7 @@
   {
    "number": 442,
    "name": "Guitarist",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3648,7 +3665,7 @@
   {
    "number": 443,
    "name": "Strum",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3656,7 +3673,7 @@
   {
    "number": 444,
    "name": "Pickin'",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3664,7 +3681,7 @@
   {
    "number": 445,
    "name": "Spanish",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3672,7 +3689,7 @@
   {
    "number": 446,
    "name": "Synth Chords",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3680,7 +3697,7 @@
   {
    "number": 447,
    "name": "Funky Clavi",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3688,7 +3705,7 @@
   {
    "number": 448,
    "name": "Reggae Organ",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3696,7 +3713,7 @@
   {
    "number": 449,
    "name": "Harpeggio",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3704,7 +3721,7 @@
   {
    "number": 450,
    "name": "Analog Sequence",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3712,7 +3729,7 @@
   {
    "number": 451,
    "name": "Sawtooth",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3720,7 +3737,7 @@
   {
    "number": 452,
    "name": "Percussion Arpeggio",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3728,7 +3745,7 @@
   {
    "number": 453,
    "name": "Trill",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3736,7 +3753,7 @@
   {
    "number": 454,
    "name": "Club Beat",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3744,7 +3761,7 @@
   {
    "number": 455,
    "name": "R&B Loop",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3752,7 +3769,7 @@
   {
    "number": 456,
    "name": "Club Adds",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3760,7 +3777,7 @@
   {
    "number": 457,
    "name": "Samba",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3768,7 +3785,7 @@
   {
    "number": 458,
    "name": "Indian",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3776,7 +3793,7 @@
   {
    "number": 459,
    "name": "Arabic",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3784,7 +3801,7 @@
   {
    "number": 460,
    "name": "Finger Bass Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3792,7 +3809,7 @@
   {
    "number": 461,
    "name": "Combo Jazz Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3800,7 +3817,7 @@
   {
    "number": 462,
    "name": "Paul's Bass Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3808,7 +3825,7 @@
   {
    "number": 463,
    "name": "Trance Bass Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3816,7 +3833,7 @@
   {
    "number": 464,
    "name": "Acid Bass Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3824,7 +3841,7 @@
   {
    "number": 465,
    "name": "Piano Ballad Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3832,7 +3849,7 @@
   {
    "number": 466,
    "name": "Salsa Piano Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3840,7 +3857,7 @@
   {
    "number": 467,
    "name": "Piano Arpeggio Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3848,7 +3865,7 @@
   {
    "number": 468,
    "name": "Guitar Arpeggio Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3856,7 +3873,7 @@
   {
    "number": 469,
    "name": "Strum Left",
-   "category": "Perc. & Drums",
+   "category": "Arpeggio",
    "msb": null,
    "lsb": null,
    "program": null
@@ -3864,7 +3881,7 @@
   {
    "number": 470,
    "name": "Grand Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 0,
    "program": 1
@@ -3872,7 +3889,7 @@
   {
    "number": 471,
    "name": "Grand Piano KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 1,
    "program": 1
@@ -3880,7 +3897,7 @@
   {
    "number": 472,
    "name": "Mellow Grand Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 18,
    "program": 1
@@ -3888,7 +3905,7 @@
   {
    "number": 473,
    "name": "Piano Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 40,
    "program": 1
@@ -3896,7 +3913,7 @@
   {
    "number": 474,
    "name": "Dream",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 41,
    "program": 1
@@ -3904,7 +3921,7 @@
   {
    "number": 475,
    "name": "Bright Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 0,
    "program": 2
@@ -3912,7 +3929,7 @@
   {
    "number": 476,
    "name": "Bright Piano KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 1,
    "program": 2
@@ -3920,7 +3937,7 @@
   {
    "number": 477,
    "name": "Electric Grand Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 0,
    "program": 3
@@ -3928,7 +3945,7 @@
   {
    "number": 478,
    "name": "Electric Grand Piano KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 1,
    "program": 3
@@ -3936,7 +3953,7 @@
   {
    "number": 479,
    "name": "Detuned CP80",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 32,
    "program": 3
@@ -3944,7 +3961,7 @@
   {
    "number": 480,
    "name": "Layered CP 1",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 40,
    "program": 3
@@ -3952,7 +3969,7 @@
   {
    "number": 481,
    "name": "Layered CP 2",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 41,
    "program": 3
@@ -3960,7 +3977,7 @@
   {
    "number": 482,
    "name": "Honky Tonk Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 0,
    "program": 4
@@ -3968,7 +3985,7 @@
   {
    "number": 483,
    "name": "Honky Tonk Piano KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 1,
    "program": 4
@@ -3976,7 +3993,7 @@
   {
    "number": 484,
    "name": "Electric Piano 1",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 0,
    "program": 5
@@ -3984,7 +4001,7 @@
   {
    "number": 485,
    "name": "Electric Piano 1 KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 1,
    "program": 5
@@ -3992,7 +4009,7 @@
   {
    "number": 486,
    "name": "Mellow Electric Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 18,
    "program": 5
@@ -4000,7 +4017,7 @@
   {
    "number": 487,
    "name": "Chorus Electric Piano 1",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 32,
    "program": 5
@@ -4008,7 +4025,7 @@
   {
    "number": 488,
    "name": "Hard Electric Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 40,
    "program": 5
@@ -4016,7 +4033,7 @@
   {
    "number": 489,
    "name": "Velocity Crossfade Electric Piano 1",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 45,
    "program": 5
@@ -4024,7 +4041,7 @@
   {
    "number": 490,
    "name": "60s Electric Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 64,
    "program": 5
@@ -4032,7 +4049,7 @@
   {
    "number": 491,
    "name": "Electric Piano 2",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 0,
    "program": 6
@@ -4040,7 +4057,7 @@
   {
    "number": 492,
    "name": "Electric Piano 2 KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 1,
    "program": 6
@@ -4048,7 +4065,7 @@
   {
    "number": 493,
    "name": "Chorus Electric Piano 2",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 32,
    "program": 6
@@ -4056,7 +4073,7 @@
   {
    "number": 494,
    "name": "DX Electric Piano Hard",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 33,
    "program": 6
@@ -4064,7 +4081,7 @@
   {
    "number": 495,
    "name": "DX Legend Electric Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 34,
    "program": 6
@@ -4072,7 +4089,7 @@
   {
    "number": 496,
    "name": "DX Phase Electric Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 40,
    "program": 6
@@ -4080,7 +4097,7 @@
   {
    "number": 497,
    "name": "DX + Analog Electric Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 41,
    "program": 6
@@ -4088,7 +4105,7 @@
   {
    "number": 498,
    "name": "DX Koto Electric Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 42,
    "program": 6
@@ -4096,7 +4113,7 @@
   {
    "number": 499,
    "name": "Velocity Crossfade Electric Piano 2",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 45,
    "program": 6
@@ -4104,7 +4121,7 @@
   {
    "number": 500,
    "name": "Harpsichord 1",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 0,
    "program": 7
@@ -4112,7 +4129,7 @@
   {
    "number": 501,
    "name": "Harpsichord KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 1,
    "program": 7
@@ -4120,7 +4137,7 @@
   {
    "number": 502,
    "name": "Harpsichord 2",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 25,
    "program": 7
@@ -4128,7 +4145,7 @@
   {
    "number": 503,
    "name": "Harpsichord 3",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 35,
    "program": 7
@@ -4136,7 +4153,7 @@
   {
    "number": 504,
    "name": "Clavi",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 0,
    "program": 8
@@ -4144,7 +4161,7 @@
   {
    "number": 505,
    "name": "Clavi KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 1,
    "program": 8
@@ -4152,7 +4169,7 @@
   {
    "number": 506,
    "name": "Clavi Wah",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 27,
    "program": 8
@@ -4160,7 +4177,7 @@
   {
    "number": 507,
    "name": "Pulse Clavi",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 64,
    "program": 8
@@ -4168,15 +4185,15 @@
   {
    "number": 508,
    "name": "Pierce Clavi",
-   "category": "Perc. & Drums",
+   "category": "XG Piano",
    "msb": 0,
    "lsb": 65,
    "program": 8
   },
   {
    "number": 509,
-   "name": "Celesta (509)",
-   "category": "Perc. & Drums",
+   "name": "Celesta",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 0,
    "program": 9
@@ -4184,7 +4201,7 @@
   {
    "number": 510,
    "name": "Glockenspiel",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 0,
    "program": 10
@@ -4192,7 +4209,7 @@
   {
    "number": 511,
    "name": "Music Box 1",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 0,
    "program": 11
@@ -4200,15 +4217,15 @@
   {
    "number": 512,
    "name": "Music Box 2",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 64,
    "program": 11
   },
   {
    "number": 513,
-   "name": "Vibraphone (513)",
-   "category": "Perc. & Drums",
+   "name": "Vibraphone",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 0,
    "program": 12
@@ -4216,7 +4233,7 @@
   {
    "number": 514,
    "name": "Vibraphone KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 1,
    "program": 12
@@ -4224,15 +4241,15 @@
   {
    "number": 515,
    "name": "Hard Vibraphone",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 45,
    "program": 12
   },
   {
    "number": 516,
-   "name": "Marimba (516)",
-   "category": "Perc. & Drums",
+   "name": "Marimba",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 0,
    "program": 13
@@ -4240,7 +4257,7 @@
   {
    "number": 517,
    "name": "Marimba KSP",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 1,
    "program": 13
@@ -4248,7 +4265,7 @@
   {
    "number": 518,
    "name": "Sine Marimba",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 64,
    "program": 13
@@ -4256,7 +4273,7 @@
   {
    "number": 519,
    "name": "Balimba",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 97,
    "program": 13
@@ -4264,23 +4281,23 @@
   {
    "number": 520,
    "name": "Log Drums",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 98,
    "program": 13
   },
   {
    "number": 521,
-   "name": "Xylophone (521)",
-   "category": "Perc. & Drums",
+   "name": "Xylophone",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 0,
    "program": 14
   },
   {
    "number": 522,
-   "name": "Tubular Bells (522)",
-   "category": "Perc. & Drums",
+   "name": "Tubular Bells",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 0,
    "program": 15
@@ -4288,7 +4305,7 @@
   {
    "number": 523,
    "name": "Church Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 96,
    "program": 15
@@ -4296,7 +4313,7 @@
   {
    "number": 524,
    "name": "Carillon",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 97,
    "program": 15
@@ -4304,7 +4321,7 @@
   {
    "number": 525,
    "name": "Drawbar Organ 1",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 0,
    "program": 17
@@ -4312,7 +4329,7 @@
   {
    "number": 526,
    "name": "Detuned Drawbar Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 32,
    "program": 17
@@ -4320,7 +4337,7 @@
   {
    "number": 527,
    "name": "60s Drawbar Organ 1",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 33,
    "program": 17
@@ -4328,7 +4345,7 @@
   {
    "number": 528,
    "name": "60s Drawbar Organ 2",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 34,
    "program": 17
@@ -4336,7 +4353,7 @@
   {
    "number": 529,
    "name": "70s Drawbar Organ 1",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 35,
    "program": 17
@@ -4344,7 +4361,7 @@
   {
    "number": 530,
    "name": "Drawbar Organ 2",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 36,
    "program": 17
@@ -4352,7 +4369,7 @@
   {
    "number": 531,
    "name": "60s Drawbar Organ 3",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 37,
    "program": 17
@@ -4360,7 +4377,7 @@
   {
    "number": 532,
    "name": "Even Bar Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 38,
    "program": 17
@@ -4368,7 +4385,7 @@
   {
    "number": 533,
    "name": "16' + 2 2/3' Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 40,
    "program": 17
@@ -4376,7 +4393,7 @@
   {
    "number": 534,
    "name": "Organ Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 64,
    "program": 17
@@ -4384,7 +4401,7 @@
   {
    "number": 535,
    "name": "70s Drawbar Organ 2",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 65,
    "program": 17
@@ -4392,7 +4409,7 @@
   {
    "number": 536,
    "name": "Cheezy Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 66,
    "program": 17
@@ -4400,7 +4417,7 @@
   {
    "number": 537,
    "name": "Drawbar Organ 3",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 67,
    "program": 17
@@ -4408,7 +4425,7 @@
   {
    "number": 538,
    "name": "Percussive Organ 1",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 0,
    "program": 18
@@ -4416,7 +4433,7 @@
   {
    "number": 539,
    "name": "70s Percussive Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 24,
    "program": 18
@@ -4424,7 +4441,7 @@
   {
    "number": 540,
    "name": "Detuned Percussive Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 32,
    "program": 18
@@ -4432,7 +4449,7 @@
   {
    "number": 541,
    "name": "Light Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 33,
    "program": 18
@@ -4440,7 +4457,7 @@
   {
    "number": 542,
    "name": "Percussive Organ 2",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 37,
    "program": 18
@@ -4448,7 +4465,7 @@
   {
    "number": 543,
    "name": "Rock Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 0,
    "program": 19
@@ -4456,7 +4473,7 @@
   {
    "number": 544,
    "name": "Rotary Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 64,
    "program": 19
@@ -4464,7 +4481,7 @@
   {
    "number": 545,
    "name": "Slow Rotary Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 65,
    "program": 19
@@ -4472,7 +4489,7 @@
   {
    "number": 546,
    "name": "Fast Rotary Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 66,
    "program": 19
@@ -4480,7 +4497,7 @@
   {
    "number": 547,
    "name": "Church Organ 1",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 0,
    "program": 20
@@ -4488,7 +4505,7 @@
   {
    "number": 548,
    "name": "Church Organ 3",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 32,
    "program": 20
@@ -4496,7 +4513,7 @@
   {
    "number": 549,
    "name": "Church Organ 2",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 35,
    "program": 20
@@ -4504,7 +4521,7 @@
   {
    "number": 550,
    "name": "Notre Dame",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 40,
    "program": 20
@@ -4512,7 +4529,7 @@
   {
    "number": 551,
    "name": "Organ Flute",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 64,
    "program": 20
@@ -4520,7 +4537,7 @@
   {
    "number": 552,
    "name": "Tremolo Organ Flute",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 65,
    "program": 20
@@ -4528,7 +4545,7 @@
   {
    "number": 553,
    "name": "Reed Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 0,
    "program": 21
@@ -4536,7 +4553,7 @@
   {
    "number": 554,
    "name": "Puff Organ",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 40,
    "program": 21
@@ -4544,7 +4561,7 @@
   {
    "number": 555,
    "name": "Accordion",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 0,
    "program": 22
@@ -4552,7 +4569,7 @@
   {
    "number": 556,
    "name": "Accord It",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 32,
    "program": 22
@@ -4560,7 +4577,7 @@
   {
    "number": 557,
    "name": "Harmonica 1",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 0,
    "program": 23
@@ -4568,7 +4585,7 @@
   {
    "number": 558,
    "name": "Harmonica 2",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 32,
    "program": 23
@@ -4576,7 +4593,7 @@
   {
    "number": 559,
    "name": "Tango Accordion 1",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 0,
    "program": 24
@@ -4584,7 +4601,7 @@
   {
    "number": 560,
    "name": "Tango Accordion 2",
-   "category": "Perc. & Drums",
+   "category": "XG Organ",
    "msb": 0,
    "lsb": 64,
    "program": 24
@@ -4592,7 +4609,7 @@
   {
    "number": 561,
    "name": "Nylon Guitar 1",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 0,
    "program": 25
@@ -4600,7 +4617,7 @@
   {
    "number": 562,
    "name": "Nylon Guitar 2",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 16,
    "program": 25
@@ -4608,7 +4625,7 @@
   {
    "number": 563,
    "name": "Nylon Guitar 3",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 25,
    "program": 25
@@ -4616,7 +4633,7 @@
   {
    "number": 564,
    "name": "Velocity Guitar Harmonics",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 43,
    "program": 25
@@ -4624,7 +4641,7 @@
   {
    "number": 565,
    "name": "Ukulele",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 96,
    "program": 25
@@ -4632,7 +4649,7 @@
   {
    "number": 566,
    "name": "Steel Guitar 1",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 0,
    "program": 26
@@ -4640,7 +4657,7 @@
   {
    "number": 567,
    "name": "Steel Guitar 2",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 16,
    "program": 26
@@ -4648,7 +4665,7 @@
   {
    "number": 568,
    "name": "12Strings Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 35,
    "program": 26
@@ -4656,7 +4673,7 @@
   {
    "number": 569,
    "name": "Nylon & Steel Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 40,
    "program": 26
@@ -4664,7 +4681,7 @@
   {
    "number": 570,
    "name": "Steel Guitar with Body Sound",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 41,
    "program": 26
@@ -4672,7 +4689,7 @@
   {
    "number": 571,
    "name": "Mandolin",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 96,
    "program": 26
@@ -4680,7 +4697,7 @@
   {
    "number": 572,
    "name": "Jazz Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 0,
    "program": 27
@@ -4688,7 +4705,7 @@
   {
    "number": 573,
    "name": "Mellow Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 18,
    "program": 27
@@ -4696,7 +4713,7 @@
   {
    "number": 574,
    "name": "Jazz Amp",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 32,
    "program": 27
@@ -4704,7 +4721,7 @@
   {
    "number": 575,
    "name": "Clean Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 0,
    "program": 28
@@ -4712,7 +4729,7 @@
   {
    "number": 576,
    "name": "Chorus Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 32,
    "program": 28
@@ -4720,7 +4737,7 @@
   {
    "number": 577,
    "name": "Muted Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 0,
    "program": 29
@@ -4728,7 +4745,7 @@
   {
    "number": 578,
    "name": "Funk Guitar 1",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 40,
    "program": 29
@@ -4736,7 +4753,7 @@
   {
    "number": 579,
    "name": "Muted Steel Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 41,
    "program": 29
@@ -4744,7 +4761,7 @@
   {
    "number": 580,
    "name": "Funk Guitar 2",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 43,
    "program": 29
@@ -4752,7 +4769,7 @@
   {
    "number": 581,
    "name": "Jazz Man",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 45,
    "program": 29
@@ -4760,7 +4777,7 @@
   {
    "number": 582,
    "name": "Overdriven Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 0,
    "program": 30
@@ -4768,7 +4785,7 @@
   {
    "number": 583,
    "name": "Guitar Pinch",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 43,
    "program": 30
@@ -4776,7 +4793,7 @@
   {
    "number": 584,
    "name": "Distortion Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 0,
    "program": 31
@@ -4784,7 +4801,7 @@
   {
    "number": 585,
    "name": "Feedback Guitar 1",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 40,
    "program": 31
@@ -4792,7 +4809,7 @@
   {
    "number": 586,
    "name": "Feedback Guitar 2",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 41,
    "program": 31
@@ -4800,7 +4817,7 @@
   {
    "number": 587,
    "name": "Guitar Harmonics 1",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 0,
    "program": 32
@@ -4808,7 +4825,7 @@
   {
    "number": 588,
    "name": "Guitar Feedback",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 65,
    "program": 32
@@ -4816,7 +4833,7 @@
   {
    "number": 589,
    "name": "Guitar Harmonics 2",
-   "category": "Perc. & Drums",
+   "category": "XG Guitar",
    "msb": 0,
    "lsb": 66,
    "program": 32
@@ -4824,7 +4841,7 @@
   {
    "number": 590,
    "name": "Acoustic Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 0,
    "program": 33
@@ -4832,7 +4849,7 @@
   {
    "number": 591,
    "name": "Jazz Rhythm",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 40,
    "program": 33
@@ -4840,7 +4857,7 @@
   {
    "number": 592,
    "name": "Velocity Crossfade Upright Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 45,
    "program": 33
@@ -4848,7 +4865,7 @@
   {
    "number": 593,
    "name": "Finger Bass 1",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 0,
    "program": 34
@@ -4856,7 +4873,7 @@
   {
    "number": 594,
    "name": "Finger Bass Dark",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 18,
    "program": 34
@@ -4864,7 +4881,7 @@
   {
    "number": 595,
    "name": "Flange Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 27,
    "program": 34
@@ -4872,7 +4889,7 @@
   {
    "number": 596,
    "name": "Bass & Distorted Guitar",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 40,
    "program": 34
@@ -4880,7 +4897,7 @@
   {
    "number": 597,
    "name": "Finger Slap Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 43,
    "program": 34
@@ -4888,7 +4905,7 @@
   {
    "number": 598,
    "name": "Finger Bass 2",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 45,
    "program": 34
@@ -4896,7 +4913,7 @@
   {
    "number": 599,
    "name": "Modulated Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 65,
    "program": 34
@@ -4904,7 +4921,7 @@
   {
    "number": 600,
    "name": "Pick Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 0,
    "program": 35
@@ -4912,7 +4929,7 @@
   {
    "number": 601,
    "name": "Muted Pick Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 28,
    "program": 35
@@ -4920,7 +4937,7 @@
   {
    "number": 602,
    "name": "Fretless Bass 1",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 0,
    "program": 36
@@ -4928,7 +4945,7 @@
   {
    "number": 603,
    "name": "Fretless Bass 2",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 32,
    "program": 36
@@ -4936,7 +4953,7 @@
   {
    "number": 604,
    "name": "Fretless Bass 3",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 33,
    "program": 36
@@ -4944,7 +4961,7 @@
   {
    "number": 605,
    "name": "Fretless Bass 4",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 34,
    "program": 36
@@ -4952,7 +4969,7 @@
   {
    "number": 606,
    "name": "Synth Fretless",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 96,
    "program": 36
@@ -4960,7 +4977,7 @@
   {
    "number": 607,
    "name": "Smooth Fretless",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 97,
    "program": 36
@@ -4968,7 +4985,7 @@
   {
    "number": 608,
    "name": "Slap Bass 1",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 0,
    "program": 37
@@ -4976,7 +4993,7 @@
   {
    "number": 609,
    "name": "Resonant Slap",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 27,
    "program": 37
@@ -4984,7 +5001,7 @@
   {
    "number": 610,
    "name": "Punch Thumb Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 32,
    "program": 37
@@ -4992,7 +5009,7 @@
   {
    "number": 611,
    "name": "Slap Bass 2",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 0,
    "program": 38
@@ -5000,7 +5017,7 @@
   {
    "number": 612,
    "name": "Velocity Switch Slap",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 43,
    "program": 38
@@ -5008,7 +5025,7 @@
   {
    "number": 613,
    "name": "Synth Bass 1",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 0,
    "program": 39
@@ -5016,7 +5033,7 @@
   {
    "number": 614,
    "name": "Synth Bass 1 Dark",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 18,
    "program": 39
@@ -5024,7 +5041,7 @@
   {
    "number": 615,
    "name": "Fast Resonant Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 20,
    "program": 39
@@ -5032,7 +5049,7 @@
   {
    "number": 616,
    "name": "Acid Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 24,
    "program": 39
@@ -5040,7 +5057,7 @@
   {
    "number": 617,
    "name": "Clavi Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 35,
    "program": 39
@@ -5048,7 +5065,7 @@
   {
    "number": 618,
    "name": "Techno Synth Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 40,
    "program": 39
@@ -5056,7 +5073,7 @@
   {
    "number": 619,
    "name": "Orbiter",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 64,
    "program": 39
@@ -5064,7 +5081,7 @@
   {
    "number": 620,
    "name": "Square Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 65,
    "program": 39
@@ -5072,7 +5089,7 @@
   {
    "number": 621,
    "name": "Rubber Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 66,
    "program": 39
@@ -5080,7 +5097,7 @@
   {
    "number": 622,
    "name": "Hammer",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 96,
    "program": 39
@@ -5088,7 +5105,7 @@
   {
    "number": 623,
    "name": "Synth Bass 2",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 0,
    "program": 40
@@ -5096,7 +5113,7 @@
   {
    "number": 624,
    "name": "Mellow Synth Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 6,
    "program": 40
@@ -5104,7 +5121,7 @@
   {
    "number": 625,
    "name": "Sequenced Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 12,
    "program": 40
@@ -5112,7 +5129,7 @@
   {
    "number": 626,
    "name": "Click Synth Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 18,
    "program": 40
@@ -5120,7 +5137,7 @@
   {
    "number": 627,
    "name": "Synth Bass 2 Dark",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 19,
    "program": 40
@@ -5128,7 +5145,7 @@
   {
    "number": 628,
    "name": "Smooth Synth Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 32,
    "program": 40
@@ -5136,7 +5153,7 @@
   {
    "number": 629,
    "name": "Modular Synth Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 40,
    "program": 40
@@ -5144,7 +5161,7 @@
   {
    "number": 630,
    "name": "DX Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 41,
    "program": 40
@@ -5152,7 +5169,7 @@
   {
    "number": 631,
    "name": "X Wire Bass",
-   "category": "Perc. & Drums",
+   "category": "XG Bass",
    "msb": 0,
    "lsb": 64,
    "program": 40
@@ -5160,7 +5177,7 @@
   {
    "number": 632,
    "name": "Violin",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 0,
    "program": 41
@@ -5168,7 +5185,7 @@
   {
    "number": 633,
    "name": "Slow Violin",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 8,
    "program": 41
@@ -5176,7 +5193,7 @@
   {
    "number": 634,
    "name": "Viola",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 0,
    "program": 42
@@ -5184,7 +5201,7 @@
   {
    "number": 635,
    "name": "Cello",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 0,
    "program": 43
@@ -5192,7 +5209,7 @@
   {
    "number": 636,
    "name": "Contrabass",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 0,
    "program": 44
@@ -5200,7 +5217,7 @@
   {
    "number": 637,
    "name": "Tremolo Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 0,
    "program": 45
@@ -5208,7 +5225,7 @@
   {
    "number": 638,
    "name": "Slow Tremolo Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 8,
    "program": 45
@@ -5216,15 +5233,15 @@
   {
    "number": 639,
    "name": "Suspense Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 40,
    "program": 45
   },
   {
    "number": 640,
-   "name": "Pizzicato Strings (640)",
-   "category": "Perc. & Drums",
+   "name": "Pizzicato Strings",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 0,
    "program": 46
@@ -5232,15 +5249,15 @@
   {
    "number": 641,
    "name": "Orchestral Harp",
-   "category": "Perc. & Drums",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 0,
    "program": 47
   },
   {
    "number": 642,
-   "name": "Timpani (642)",
-   "category": "Perc. & Drums",
+   "name": "Timpani",
+   "category": "XG Strings",
    "msb": 0,
    "lsb": 0,
    "program": 48
@@ -5248,7 +5265,7 @@
   {
    "number": 643,
    "name": "Strings 1",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 0,
    "program": 49
@@ -5256,7 +5273,7 @@
   {
    "number": 644,
    "name": "Stereo Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 3,
    "program": 49
@@ -5264,7 +5281,7 @@
   {
    "number": 645,
    "name": "Slow Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 8,
    "program": 49
@@ -5272,7 +5289,7 @@
   {
    "number": 646,
    "name": "Arco Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 24,
    "program": 49
@@ -5280,7 +5297,7 @@
   {
    "number": 647,
    "name": "60s Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 35,
    "program": 49
@@ -5288,7 +5305,7 @@
   {
    "number": 648,
    "name": "Orchestra 1",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 40,
    "program": 49
@@ -5296,7 +5313,7 @@
   {
    "number": 649,
    "name": "Orchestra 2",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 41,
    "program": 49
@@ -5304,7 +5321,7 @@
   {
    "number": 650,
    "name": "Tremolo Orchestra",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 42,
    "program": 49
@@ -5312,7 +5329,7 @@
   {
    "number": 651,
    "name": "Velocity Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 45,
    "program": 49
@@ -5320,7 +5337,7 @@
   {
    "number": 652,
    "name": "Strings 2",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 0,
    "program": 50
@@ -5328,7 +5345,7 @@
   {
    "number": 653,
    "name": "Stereo Slow Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 3,
    "program": 50
@@ -5336,7 +5353,7 @@
   {
    "number": 654,
    "name": "Legato Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 8,
    "program": 50
@@ -5344,7 +5361,7 @@
   {
    "number": 655,
    "name": "Warm Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 40,
    "program": 50
@@ -5352,7 +5369,7 @@
   {
    "number": 656,
    "name": "Kingdom",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 41,
    "program": 50
@@ -5360,7 +5377,7 @@
   {
    "number": 657,
    "name": "70s Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 64,
    "program": 50
@@ -5368,7 +5385,7 @@
   {
    "number": 658,
    "name": "Strings 3",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 65,
    "program": 50
@@ -5376,7 +5393,7 @@
   {
    "number": 659,
    "name": "Synth Strings 1",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 0,
    "program": 51
@@ -5384,7 +5401,7 @@
   {
    "number": 660,
    "name": "Resonant Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 27,
    "program": 51
@@ -5392,7 +5409,7 @@
   {
    "number": 661,
    "name": "Synth Strings 4",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 64,
    "program": 51
@@ -5400,7 +5417,7 @@
   {
    "number": 662,
    "name": "Synth Strings 5",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 65,
    "program": 51
@@ -5408,7 +5425,7 @@
   {
    "number": 663,
    "name": "Synth Strings 2",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 0,
    "program": 52
@@ -5416,7 +5433,7 @@
   {
    "number": 664,
    "name": "Choir Aahs 1",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 0,
    "program": 53
@@ -5424,7 +5441,7 @@
   {
    "number": 665,
    "name": "Stereo Choir",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 3,
    "program": 53
@@ -5432,7 +5449,7 @@
   {
    "number": 666,
    "name": "Mellow Choir",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 32,
    "program": 53
@@ -5440,7 +5457,7 @@
   {
    "number": 667,
    "name": "Choir Aahs 2",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 16,
    "program": 53
@@ -5448,7 +5465,7 @@
   {
    "number": 668,
    "name": "Choir Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 40,
    "program": 53
@@ -5456,7 +5473,7 @@
   {
    "number": 669,
    "name": "Voice Oohs",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 0,
    "program": 54
@@ -5464,7 +5481,7 @@
   {
    "number": 670,
    "name": "Synth Voice 1",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 0,
    "program": 55
@@ -5472,7 +5489,7 @@
   {
    "number": 671,
    "name": "Synth Voice 2",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 40,
    "program": 55
@@ -5480,7 +5497,7 @@
   {
    "number": 672,
    "name": "Choral",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 41,
    "program": 55
@@ -5488,7 +5505,7 @@
   {
    "number": 673,
    "name": "Analog Voice",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 64,
    "program": 55
@@ -5496,7 +5513,7 @@
   {
    "number": 674,
    "name": "Orchestra Hit 1",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 0,
    "program": 56
@@ -5504,7 +5521,7 @@
   {
    "number": 675,
    "name": "Orchestra Hit 2",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 35,
    "program": 56
@@ -5512,7 +5529,7 @@
   {
    "number": 676,
    "name": "Impact",
-   "category": "Perc. & Drums",
+   "category": "XG Ensemble",
    "msb": 0,
    "lsb": 64,
    "program": 56
@@ -5520,7 +5537,7 @@
   {
    "number": 677,
    "name": "Trumpet 1",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 0,
    "program": 57
@@ -5528,7 +5545,7 @@
   {
    "number": 678,
    "name": "Trumpet 2",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 16,
    "program": 57
@@ -5536,7 +5553,7 @@
   {
    "number": 679,
    "name": "Bright Trumpet",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 17,
    "program": 57
@@ -5544,7 +5561,7 @@
   {
    "number": 680,
    "name": "Warm Trumpet",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 32,
    "program": 57
@@ -5552,7 +5569,7 @@
   {
    "number": 681,
    "name": "Trombone 1",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 0,
    "program": 58
@@ -5560,7 +5577,7 @@
   {
    "number": 682,
    "name": "Trombone 2",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 18,
    "program": 58
@@ -5568,7 +5585,7 @@
   {
    "number": 683,
    "name": "Tuba 1",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 0,
    "program": 59
@@ -5576,7 +5593,7 @@
   {
    "number": 684,
    "name": "Tuba 2",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 16,
    "program": 59
@@ -5584,7 +5601,7 @@
   {
    "number": 685,
    "name": "Muted Trumpet",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 0,
    "program": 60
@@ -5592,7 +5609,7 @@
   {
    "number": 686,
    "name": "French Horn 1",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 0,
    "program": 61
@@ -5600,7 +5617,7 @@
   {
    "number": 687,
    "name": "French Horn Solo",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 6,
    "program": 61
@@ -5608,7 +5625,7 @@
   {
    "number": 688,
    "name": "French Horn 2",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 32,
    "program": 61
@@ -5616,15 +5633,15 @@
   {
    "number": 689,
    "name": "Horn Orchestra",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 37,
    "program": 61
   },
   {
    "number": 690,
-   "name": "Brass Section 1 (690)",
-   "category": "Perc. & Drums",
+   "name": "Brass Section 1",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 0,
    "program": 62
@@ -5632,15 +5649,15 @@
   {
    "number": 691,
    "name": "Trumpet & Trombone Section",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 35,
    "program": 62
   },
   {
    "number": 692,
-   "name": "Brass Section 2 (692)",
-   "category": "Perc. & Drums",
+   "name": "Brass Section 2",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 40,
    "program": 62
@@ -5648,7 +5665,7 @@
   {
    "number": 693,
    "name": "High Brass",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 41,
    "program": 62
@@ -5656,7 +5673,7 @@
   {
    "number": 694,
    "name": "Mellow Brass",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 42,
    "program": 62
@@ -5664,7 +5681,7 @@
   {
    "number": 695,
    "name": "Synth Brass 1",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 0,
    "program": 63
@@ -5672,7 +5689,7 @@
   {
    "number": 696,
    "name": "Quack Brass",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 12,
    "program": 63
@@ -5680,7 +5697,7 @@
   {
    "number": 697,
    "name": "Resonant Synth Brass",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 20,
    "program": 63
@@ -5688,7 +5705,7 @@
   {
    "number": 698,
    "name": "Poly Brass",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 24,
    "program": 63
@@ -5696,7 +5713,7 @@
   {
    "number": 699,
    "name": "Synth Brass 3",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 27,
    "program": 63
@@ -5704,7 +5721,7 @@
   {
    "number": 700,
    "name": "Jump Brass",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 32,
    "program": 63
@@ -5712,7 +5729,7 @@
   {
    "number": 701,
    "name": "Analog Velocity Brass 1",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 45,
    "program": 63
@@ -5720,7 +5737,7 @@
   {
    "number": 702,
    "name": "Analog Brass 1",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 64,
    "program": 63
@@ -5728,7 +5745,7 @@
   {
    "number": 703,
    "name": "Synth Brass 2",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 0,
    "program": 64
@@ -5736,7 +5753,7 @@
   {
    "number": 704,
    "name": "Soft Brass",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 18,
    "program": 64
@@ -5744,7 +5761,7 @@
   {
    "number": 705,
    "name": "Synth Brass 4",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 40,
    "program": 64
@@ -5752,7 +5769,7 @@
   {
    "number": 706,
    "name": "Choir Brass",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 41,
    "program": 64
@@ -5760,7 +5777,7 @@
   {
    "number": 707,
    "name": "Analog Velocity Brass 2",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 45,
    "program": 64
@@ -5768,7 +5785,7 @@
   {
    "number": 708,
    "name": "Analog Brass 2",
-   "category": "Perc. & Drums",
+   "category": "XG Brass",
    "msb": 0,
    "lsb": 64,
    "program": 64
@@ -5776,7 +5793,7 @@
   {
    "number": 709,
    "name": "Soprano Sax",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 0,
    "program": 65
@@ -5784,7 +5801,7 @@
   {
    "number": 710,
    "name": "Alto Sax",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 0,
    "program": 66
@@ -5792,7 +5809,7 @@
   {
    "number": 711,
    "name": "Sax Section",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 40,
    "program": 66
@@ -5800,7 +5817,7 @@
   {
    "number": 712,
    "name": "Hyper Alto Sax",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 43,
    "program": 66
@@ -5808,7 +5825,7 @@
   {
    "number": 713,
    "name": "Tenor Sax 1",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 0,
    "program": 67
@@ -5816,7 +5833,7 @@
   {
    "number": 714,
    "name": "Breathy Tenor Sax",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 40,
    "program": 67
@@ -5824,7 +5841,7 @@
   {
    "number": 715,
    "name": "Soft Tenor Sax",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 41,
    "program": 67
@@ -5832,7 +5849,7 @@
   {
    "number": 716,
    "name": "Tenor Sax 2",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 64,
    "program": 67
@@ -5840,7 +5857,7 @@
   {
    "number": 717,
    "name": "Baritone Sax",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 0,
    "program": 68
@@ -5848,7 +5865,7 @@
   {
    "number": 718,
    "name": "Oboe",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 0,
    "program": 69
@@ -5856,7 +5873,7 @@
   {
    "number": 719,
    "name": "English Horn",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 0,
    "program": 70
@@ -5864,7 +5881,7 @@
   {
    "number": 720,
    "name": "Bassoon",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 0,
    "program": 71
@@ -5872,7 +5889,7 @@
   {
    "number": 721,
    "name": "Clarinet",
-   "category": "Perc. & Drums",
+   "category": "XG Reed",
    "msb": 0,
    "lsb": 0,
    "program": 72
@@ -5880,7 +5897,7 @@
   {
    "number": 722,
    "name": "Piccolo",
-   "category": "Perc. & Drums",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 73
@@ -5888,7 +5905,7 @@
   {
    "number": 723,
    "name": "Flute",
-   "category": "Perc. & Drums",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 74
@@ -5896,7 +5913,7 @@
   {
    "number": 724,
    "name": "Recorder",
-   "category": "Perc. & Drums",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 75
@@ -5904,7 +5921,7 @@
   {
    "number": 725,
    "name": "Pan Flute",
-   "category": "Perc. & Drums",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 76
@@ -5912,7 +5929,7 @@
   {
    "number": 726,
    "name": "Blown Bottle",
-   "category": "Perc. & Drums",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 77
@@ -5920,7 +5937,7 @@
   {
    "number": 727,
    "name": "Shakuhachi",
-   "category": "Perc. & Drums",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 78
@@ -5928,7 +5945,7 @@
   {
    "number": 728,
    "name": "Whistle",
-   "category": "Perc. & Drums",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 79
@@ -5936,7 +5953,7 @@
   {
    "number": 729,
    "name": "Ocarina",
-   "category": "Perc. & Drums",
+   "category": "XG Pipe",
    "msb": 0,
    "lsb": 0,
    "program": 80
@@ -5944,7 +5961,7 @@
   {
    "number": 730,
    "name": "Square Lead 1",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 0,
    "program": 81
@@ -5952,7 +5969,7 @@
   {
    "number": 731,
    "name": "Square Lead 2",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 6,
    "program": 81
@@ -5960,7 +5977,7 @@
   {
    "number": 732,
    "name": "LM Square",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 8,
    "program": 81
@@ -5968,7 +5985,7 @@
   {
    "number": 733,
    "name": "Hollow",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 18,
    "program": 81
@@ -5976,7 +5993,7 @@
   {
    "number": 734,
    "name": "Shroud",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 19,
    "program": 81
@@ -5984,7 +6001,7 @@
   {
    "number": 735,
    "name": "Mellow",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 64,
    "program": 81
@@ -5992,7 +6009,7 @@
   {
    "number": 736,
    "name": "Solo Sine",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 65,
    "program": 81
@@ -6000,7 +6017,7 @@
   {
    "number": 737,
    "name": "Sine Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 66,
    "program": 81
@@ -6008,7 +6025,7 @@
   {
    "number": 738,
    "name": "Sawtooth Lead 1",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 0,
    "program": 82
@@ -6016,7 +6033,7 @@
   {
    "number": 739,
    "name": "Sawtooth Lead 2",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 6,
    "program": 82
@@ -6024,7 +6041,7 @@
   {
    "number": 740,
    "name": "Thick Sawtooth",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 8,
    "program": 82
@@ -6032,7 +6049,7 @@
   {
    "number": 741,
    "name": "Dynamic Sawtooth",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 18,
    "program": 82
@@ -6040,7 +6057,7 @@
   {
    "number": 742,
    "name": "Digital Sawtooth",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 19,
    "program": 82
@@ -6048,7 +6065,7 @@
   {
    "number": 743,
    "name": "Big Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 20,
    "program": 82
@@ -6056,7 +6073,7 @@
   {
    "number": 744,
    "name": "Heavy Synth",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 24,
    "program": 82
@@ -6064,7 +6081,7 @@
   {
    "number": 745,
    "name": "Waspy Synth",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 25,
    "program": 82
@@ -6072,7 +6089,7 @@
   {
    "number": 746,
    "name": "Pulse Sawtooth",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 40,
    "program": 82
@@ -6080,7 +6097,7 @@
   {
    "number": 747,
    "name": "Dr. Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 41,
    "program": 82
@@ -6088,7 +6105,7 @@
   {
    "number": 748,
    "name": "Velocity Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 45,
    "program": 82
@@ -6096,7 +6113,7 @@
   {
    "number": 749,
    "name": "Sequenced Analog",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 96,
    "program": 82
@@ -6104,7 +6121,7 @@
   {
    "number": 750,
    "name": "Calliope Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 0,
    "program": 83
@@ -6112,7 +6129,7 @@
   {
    "number": 751,
    "name": "Pure Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 65,
    "program": 83
@@ -6120,7 +6137,7 @@
   {
    "number": 752,
    "name": "Chiff Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 0,
    "program": 84
@@ -6128,7 +6145,7 @@
   {
    "number": 753,
    "name": "Rubby",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 64,
    "program": 84
@@ -6136,7 +6153,7 @@
   {
    "number": 754,
    "name": "Charang Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 0,
    "program": 85
@@ -6144,7 +6161,7 @@
   {
    "number": 755,
    "name": "Distorted Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 64,
    "program": 85
@@ -6152,7 +6169,7 @@
   {
    "number": 756,
    "name": "Wire Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 65,
    "program": 85
@@ -6160,7 +6177,7 @@
   {
    "number": 757,
    "name": "Voice Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 0,
    "program": 86
@@ -6168,7 +6185,7 @@
   {
    "number": 758,
    "name": "Synth Aahs",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 24,
    "program": 86
@@ -6176,7 +6193,7 @@
   {
    "number": 759,
    "name": "Vox Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 64,
    "program": 86
@@ -6184,7 +6201,7 @@
   {
    "number": 760,
    "name": "Fifths Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 0,
    "program": 87
@@ -6192,7 +6209,7 @@
   {
    "number": 761,
    "name": "Big Five",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 35,
    "program": 87
@@ -6200,7 +6217,7 @@
   {
    "number": 762,
    "name": "Bass & Lead",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 0,
    "program": 88
@@ -6208,7 +6225,7 @@
   {
    "number": 763,
    "name": "Big & Low",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 16,
    "program": 88
@@ -6216,7 +6233,7 @@
   {
    "number": 764,
    "name": "Fat & Perky",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 64,
    "program": 88
@@ -6224,7 +6241,7 @@
   {
    "number": 765,
    "name": "Soft Whirl",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Lead",
    "msb": 0,
    "lsb": 65,
    "program": 88
@@ -6232,7 +6249,7 @@
   {
    "number": 766,
    "name": "New Age Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 0,
    "program": 89
@@ -6240,7 +6257,7 @@
   {
    "number": 767,
    "name": "Fantasy",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 64,
    "program": 89
@@ -6248,7 +6265,7 @@
   {
    "number": 768,
    "name": "Warm Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 0,
    "program": 90
@@ -6256,7 +6273,7 @@
   {
    "number": 769,
    "name": "Thick Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 16,
    "program": 90
@@ -6264,7 +6281,7 @@
   {
    "number": 770,
    "name": "Soft Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 17,
    "program": 90
@@ -6272,7 +6289,7 @@
   {
    "number": 771,
    "name": "Sine Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 18,
    "program": 90
@@ -6280,7 +6297,7 @@
   {
    "number": 772,
    "name": "Horn Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 64,
    "program": 90
@@ -6288,7 +6305,7 @@
   {
    "number": 773,
    "name": "Rotary Strings",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 65,
    "program": 90
@@ -6296,7 +6313,7 @@
   {
    "number": 774,
    "name": "Poly Synth Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 0,
    "program": 91
@@ -6304,7 +6321,7 @@
   {
    "number": 775,
    "name": "Poly Pad 80",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 64,
    "program": 91
@@ -6312,7 +6329,7 @@
   {
    "number": 776,
    "name": "Click Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 65,
    "program": 91
@@ -6320,7 +6337,7 @@
   {
    "number": 777,
    "name": "Analog Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 66,
    "program": 91
@@ -6328,7 +6345,7 @@
   {
    "number": 778,
    "name": "Square Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 67,
    "program": 91
@@ -6336,7 +6353,7 @@
   {
    "number": 779,
    "name": "Choir Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 0,
    "program": 92
@@ -6344,7 +6361,7 @@
   {
    "number": 780,
    "name": "Heaven",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 64,
    "program": 92
@@ -6352,7 +6369,7 @@
   {
    "number": 781,
    "name": "Itopia",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 66,
    "program": 92
@@ -6360,7 +6377,7 @@
   {
    "number": 782,
    "name": "CC Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 67,
    "program": 92
@@ -6368,7 +6385,7 @@
   {
    "number": 783,
    "name": "Bowed Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 0,
    "program": 93
@@ -6376,7 +6393,7 @@
   {
    "number": 784,
    "name": "Glacier",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 64,
    "program": 93
@@ -6384,7 +6401,7 @@
   {
    "number": 785,
    "name": "Glass Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 65,
    "program": 93
@@ -6392,7 +6409,7 @@
   {
    "number": 786,
    "name": "Metallic Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 0,
    "program": 94
@@ -6400,7 +6417,7 @@
   {
    "number": 787,
    "name": "Tine Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 64,
    "program": 94
@@ -6408,7 +6425,7 @@
   {
    "number": 788,
    "name": "Pan Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 65,
    "program": 94
@@ -6416,7 +6433,7 @@
   {
    "number": 789,
    "name": "Halo Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 0,
    "program": 95
@@ -6424,7 +6441,7 @@
   {
    "number": 790,
    "name": "Sweep Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 0,
    "program": 96
@@ -6432,7 +6449,7 @@
   {
    "number": 791,
    "name": "Shwimmer",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 20,
    "program": 96
@@ -6440,7 +6457,7 @@
   {
    "number": 792,
    "name": "Converge",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 27,
    "program": 96
@@ -6448,7 +6465,7 @@
   {
    "number": 793,
    "name": "Polar Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 64,
    "program": 96
@@ -6456,7 +6473,7 @@
   {
    "number": 794,
    "name": "Celestial",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Pad",
    "msb": 0,
    "lsb": 66,
    "program": 96
@@ -6464,7 +6481,7 @@
   {
    "number": 795,
    "name": "Rain",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 0,
    "program": 97
@@ -6472,7 +6489,7 @@
   {
    "number": 796,
    "name": "Clavi Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 45,
    "program": 97
@@ -6480,7 +6497,7 @@
   {
    "number": 797,
    "name": "Harmo Rain",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 64,
    "program": 97
@@ -6488,7 +6505,7 @@
   {
    "number": 798,
    "name": "African Wind",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 65,
    "program": 97
@@ -6496,7 +6513,7 @@
   {
    "number": 799,
    "name": "Carib",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 66,
    "program": 97
@@ -6504,7 +6521,7 @@
   {
    "number": 800,
    "name": "Sound Track",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 0,
    "program": 98
@@ -6512,7 +6529,7 @@
   {
    "number": 801,
    "name": "Prologue",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 27,
    "program": 98
@@ -6520,7 +6537,7 @@
   {
    "number": 802,
    "name": "Ancestral",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 64,
    "program": 98
@@ -6528,7 +6545,7 @@
   {
    "number": 803,
    "name": "Crystal",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 0,
    "program": 99
@@ -6536,7 +6553,7 @@
   {
    "number": 804,
    "name": "Synth Drum Comp",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 12,
    "program": 99
@@ -6544,7 +6561,7 @@
   {
    "number": 805,
    "name": "Popcorn",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 14,
    "program": 99
@@ -6552,7 +6569,7 @@
   {
    "number": 806,
    "name": "Tiny Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 18,
    "program": 99
@@ -6560,7 +6577,7 @@
   {
    "number": 807,
    "name": "Round Glockenspiel",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 35,
    "program": 99
@@ -6568,7 +6585,7 @@
   {
    "number": 808,
    "name": "Glockenspiel Chimes",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 40,
    "program": 99
@@ -6576,7 +6593,7 @@
   {
    "number": 809,
    "name": "Clear Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 41,
    "program": 99
@@ -6584,7 +6601,7 @@
   {
    "number": 810,
    "name": "Chorus Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 42,
    "program": 99
@@ -6592,7 +6609,7 @@
   {
    "number": 811,
    "name": "Synth Mallet",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 64,
    "program": 99
@@ -6600,7 +6617,7 @@
   {
    "number": 812,
    "name": "Soft Crystal",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 65,
    "program": 99
@@ -6608,7 +6625,7 @@
   {
    "number": 813,
    "name": "Loud Glockenspiel",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 66,
    "program": 99
@@ -6616,7 +6633,7 @@
   {
    "number": 814,
    "name": "Christmas Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 67,
    "program": 99
@@ -6624,7 +6641,7 @@
   {
    "number": 815,
    "name": "Vibraphone Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 68,
    "program": 99
@@ -6632,7 +6649,7 @@
   {
    "number": 816,
    "name": "Digital Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 69,
    "program": 99
@@ -6640,7 +6657,7 @@
   {
    "number": 817,
    "name": "Air Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 70,
    "program": 99
@@ -6648,7 +6665,7 @@
   {
    "number": 818,
    "name": "Bell Harp",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 71,
    "program": 99
@@ -6656,7 +6673,7 @@
   {
    "number": 819,
    "name": "Gamelimba",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 72,
    "program": 99
@@ -6664,7 +6681,7 @@
   {
    "number": 820,
    "name": "Atmosphere",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 0,
    "program": 100
@@ -6672,7 +6689,7 @@
   {
    "number": 821,
    "name": "Warm Atmosphere",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 18,
    "program": 100
@@ -6680,7 +6697,7 @@
   {
    "number": 822,
    "name": "Hollow Release",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 19,
    "program": 100
@@ -6688,7 +6705,7 @@
   {
    "number": 823,
    "name": "Nylon Electric Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 40,
    "program": 100
@@ -6696,7 +6713,7 @@
   {
    "number": 824,
    "name": "Nylon Harp",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 64,
    "program": 100
@@ -6704,7 +6721,7 @@
   {
    "number": 825,
    "name": "Harp Vox",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 65,
    "program": 100
@@ -6712,7 +6729,7 @@
   {
    "number": 826,
    "name": "Atmosphere Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 66,
    "program": 100
@@ -6720,7 +6737,7 @@
   {
    "number": 827,
    "name": "Planet",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 67,
    "program": 100
@@ -6728,7 +6745,7 @@
   {
    "number": 828,
    "name": "Brightness",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 0,
    "program": 101
@@ -6736,7 +6753,7 @@
   {
    "number": 829,
    "name": "Fantasy Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 64,
    "program": 101
@@ -6744,7 +6761,7 @@
   {
    "number": 830,
    "name": "Smokey",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 96,
    "program": 101
@@ -6752,7 +6769,7 @@
   {
    "number": 831,
    "name": "Goblins",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 0,
    "program": 102
@@ -6760,7 +6777,7 @@
   {
    "number": 832,
    "name": "Goblins Synth",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 64,
    "program": 102
@@ -6768,7 +6785,7 @@
   {
    "number": 833,
    "name": "Creeper",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 65,
    "program": 102
@@ -6776,7 +6793,7 @@
   {
    "number": 834,
    "name": "Ring Pad",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 66,
    "program": 102
@@ -6784,7 +6801,7 @@
   {
    "number": 835,
    "name": "Ritual",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 67,
    "program": 102
@@ -6792,7 +6809,7 @@
   {
    "number": 836,
    "name": "To Heaven",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 68,
    "program": 102
@@ -6800,7 +6817,7 @@
   {
    "number": 837,
    "name": "Night",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 70,
    "program": 102
@@ -6808,7 +6825,7 @@
   {
    "number": 838,
    "name": "Glisten",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 71,
    "program": 102
@@ -6816,7 +6833,7 @@
   {
    "number": 839,
    "name": "Bell Choir",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 96,
    "program": 102
@@ -6824,7 +6841,7 @@
   {
    "number": 840,
    "name": "Echoes 1",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 0,
    "program": 103
@@ -6832,7 +6849,7 @@
   {
    "number": 841,
    "name": "Echoes 2",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 8,
    "program": 103
@@ -6840,7 +6857,7 @@
   {
    "number": 842,
    "name": "Echo Pan",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 14,
    "program": 103
@@ -6848,7 +6865,7 @@
   {
    "number": 843,
    "name": "Echo Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 64,
    "program": 103
@@ -6856,7 +6873,7 @@
   {
    "number": 844,
    "name": "Big Pan",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 65,
    "program": 103
@@ -6864,7 +6881,7 @@
   {
    "number": 845,
    "name": "Synth Piano",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 66,
    "program": 103
@@ -6872,7 +6889,7 @@
   {
    "number": 846,
    "name": "Creation",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 67,
    "program": 103
@@ -6880,7 +6897,7 @@
   {
    "number": 847,
    "name": "Stardust",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 68,
    "program": 103
@@ -6888,7 +6905,7 @@
   {
    "number": 848,
    "name": "Resonant & Panning",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 69,
    "program": 103
@@ -6896,7 +6913,7 @@
   {
    "number": 849,
    "name": "Sci-Fi",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 0,
    "program": 104
@@ -6904,7 +6921,7 @@
   {
    "number": 850,
    "name": "Starz",
-   "category": "Perc. & Drums",
+   "category": "XG Synth Effects",
    "msb": 0,
    "lsb": 64,
    "program": 104
@@ -6912,7 +6929,7 @@
   {
    "number": 851,
    "name": "Banjo",
-   "category": "Perc. & Drums",
+   "category": "XG Ethnic",
    "msb": 0,
    "lsb": 0,
    "program": 106
@@ -6920,7 +6937,7 @@
   {
    "number": 852,
    "name": "Muted Banjo",
-   "category": "Perc. & Drums",
+   "category": "XG Ethnic",
    "msb": 0,
    "lsb": 28,
    "program": 106
@@ -6928,7 +6945,7 @@
   {
    "number": 853,
    "name": "Shanai",
-   "category": "Perc. & Drums",
+   "category": "XG Ethnic",
    "msb": 0,
    "lsb": 64,
    "program": 112
@@ -6936,7 +6953,7 @@
   {
    "number": 854,
    "name": "Tamboura",
-   "category": "Perc. & Drums",
+   "category": "XG Ethnic",
    "msb": 0,
    "lsb": 97,
    "program": 105
@@ -6944,7 +6961,7 @@
   {
    "number": 855,
    "name": "Santur",
-   "category": "Perc. & Drums",
+   "category": "XG Chromatic Perc.",
    "msb": 0,
    "lsb": 97,
    "program": 16
@@ -6952,7 +6969,7 @@
   {
    "number": 856,
    "name": "Tinkle Bell",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 0,
    "program": 113
@@ -6960,7 +6977,7 @@
   {
    "number": 857,
    "name": "Bonang",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 96,
    "program": 113
@@ -6968,7 +6985,7 @@
   {
    "number": 858,
    "name": "Altair",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 97,
    "program": 113
@@ -6976,7 +6993,7 @@
   {
    "number": 859,
    "name": "Gamelan Gongs",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 98,
    "program": 113
@@ -6984,7 +7001,7 @@
   {
    "number": 860,
    "name": "Stereo Gamelan Gongs",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 99,
    "program": 113
@@ -6992,7 +7009,7 @@
   {
    "number": 861,
    "name": "Rama Cymbal",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 100,
    "program": 113
@@ -7000,7 +7017,7 @@
   {
    "number": 862,
    "name": "Asian Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 101,
    "program": 113
@@ -7008,15 +7025,15 @@
   {
    "number": 863,
    "name": "Agogo",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 0,
    "program": 114
   },
   {
    "number": 864,
-   "name": "Steel Drums (864)",
-   "category": "Perc. & Drums",
+   "name": "Steel Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 0,
    "program": 115
@@ -7024,7 +7041,7 @@
   {
    "number": 865,
    "name": "Glass Percussion",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 97,
    "program": 115
@@ -7032,7 +7049,7 @@
   {
    "number": 866,
    "name": "Thai Bells",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 98,
    "program": 115
@@ -7040,7 +7057,7 @@
   {
    "number": 867,
    "name": "Woodblock",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 0,
    "program": 116
@@ -7048,7 +7065,7 @@
   {
    "number": 868,
    "name": "Castanets",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 96,
    "program": 116
@@ -7056,7 +7073,7 @@
   {
    "number": 869,
    "name": "Taiko Drum",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 0,
    "program": 117
@@ -7064,7 +7081,7 @@
   {
    "number": 870,
    "name": "Gran Cassa",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 96,
    "program": 117
@@ -7072,7 +7089,7 @@
   {
    "number": 871,
    "name": "Melodic Tom 1",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 0,
    "program": 118
@@ -7080,7 +7097,7 @@
   {
    "number": 872,
    "name": "Melodic Tom 2",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 64,
    "program": 118
@@ -7088,7 +7105,7 @@
   {
    "number": 873,
    "name": "Real Tom",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 65,
    "program": 118
@@ -7096,7 +7113,7 @@
   {
    "number": 874,
    "name": "Rock Tom",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 66,
    "program": 118
@@ -7104,7 +7121,7 @@
   {
    "number": 875,
    "name": "Synth Drum",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 0,
    "program": 119
@@ -7112,7 +7129,7 @@
   {
    "number": 876,
    "name": "Analog Tom",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 64,
    "program": 119
@@ -7120,7 +7137,7 @@
   {
    "number": 877,
    "name": "Electronic Percussion",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 65,
    "program": 119
@@ -7128,7 +7145,7 @@
   {
    "number": 878,
    "name": "Reverse Cymbal",
-   "category": "Perc. & Drums",
+   "category": "XG Percussive",
    "msb": 0,
    "lsb": 0,
    "program": 120
@@ -7136,7 +7153,7 @@
   {
    "number": 879,
    "name": "Fret Noise",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 0,
    "lsb": 0,
    "program": 121
@@ -7144,7 +7161,7 @@
   {
    "number": 880,
    "name": "Breath Noise",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 0,
    "lsb": 0,
    "program": 122
@@ -7152,7 +7169,7 @@
   {
    "number": 881,
    "name": "Seashore",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 0,
    "lsb": 0,
    "program": 123
@@ -7160,7 +7177,7 @@
   {
    "number": 882,
    "name": "Bird Tweet 1",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 0,
    "lsb": 0,
    "program": 124
@@ -7168,7 +7185,7 @@
   {
    "number": 883,
    "name": "Telephone Ring 1",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 0,
    "lsb": 0,
    "program": 125
@@ -7176,7 +7193,7 @@
   {
    "number": 884,
    "name": "Helicopter",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 0,
    "lsb": 0,
    "program": 126
@@ -7184,7 +7201,7 @@
   {
    "number": 885,
    "name": "Applause",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 0,
    "lsb": 0,
    "program": 127
@@ -7192,7 +7209,7 @@
   {
    "number": 886,
    "name": "Gunshot",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 0,
    "lsb": 0,
    "program": 128
@@ -7200,7 +7217,7 @@
   {
    "number": 887,
    "name": "Cutting Noise 1",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 1
@@ -7208,7 +7225,7 @@
   {
    "number": 888,
    "name": "Cutting Noise 2",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 2
@@ -7216,7 +7233,7 @@
   {
    "number": 889,
    "name": "String Slap",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 4
@@ -7224,7 +7241,7 @@
   {
    "number": 890,
    "name": "Flute Key Click",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 17
@@ -7232,7 +7249,7 @@
   {
    "number": 891,
    "name": "Shower",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 33
@@ -7240,7 +7257,7 @@
   {
    "number": 892,
    "name": "Thunder",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 34
@@ -7248,7 +7265,7 @@
   {
    "number": 893,
    "name": "Wind",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 35
@@ -7256,7 +7273,7 @@
   {
    "number": 894,
    "name": "Stream",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 36
@@ -7264,7 +7281,7 @@
   {
    "number": 895,
    "name": "Bubble",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 37
@@ -7272,7 +7289,7 @@
   {
    "number": 896,
    "name": "Feed",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 38
@@ -7280,7 +7297,7 @@
   {
    "number": 897,
    "name": "Dog",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 49
@@ -7288,7 +7305,7 @@
   {
    "number": 898,
    "name": "Horse",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 50
@@ -7296,7 +7313,7 @@
   {
    "number": 899,
    "name": "Bird Tweet 2",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 51
@@ -7304,7 +7321,7 @@
   {
    "number": 900,
    "name": "Maou",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 56
@@ -7312,7 +7329,7 @@
   {
    "number": 901,
    "name": "Phone Call",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 65
@@ -7320,7 +7337,7 @@
   {
    "number": 902,
    "name": "Door Squeak",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 66
@@ -7328,7 +7345,7 @@
   {
    "number": 903,
    "name": "Door Slam",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 67
@@ -7336,7 +7353,7 @@
   {
    "number": 904,
    "name": "Scratch Cut",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 68
@@ -7344,7 +7361,7 @@
   {
    "number": 905,
    "name": "Scratch Split",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 69
@@ -7352,7 +7369,7 @@
   {
    "number": 906,
    "name": "Wind Chime",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 70
@@ -7360,7 +7377,7 @@
   {
    "number": 907,
    "name": "Telephone Ring 2",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 71
@@ -7368,7 +7385,7 @@
   {
    "number": 908,
    "name": "Car Engine Ignition",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 81
@@ -7376,7 +7393,7 @@
   {
    "number": 909,
    "name": "Car Tires Squeal",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 82
@@ -7384,7 +7401,7 @@
   {
    "number": 910,
    "name": "Car Passing",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 83
@@ -7392,7 +7409,7 @@
   {
    "number": 911,
    "name": "Car Crash",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 84
@@ -7400,7 +7417,7 @@
   {
    "number": 912,
    "name": "Siren",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 85
@@ -7408,7 +7425,7 @@
   {
    "number": 913,
    "name": "Train",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 86
@@ -7416,7 +7433,7 @@
   {
    "number": 914,
    "name": "Jet Plane",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 87
@@ -7424,7 +7441,7 @@
   {
    "number": 915,
    "name": "Starship",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 88
@@ -7432,7 +7449,7 @@
   {
    "number": 916,
    "name": "Burst",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 89
@@ -7440,7 +7457,7 @@
   {
    "number": 917,
    "name": "Roller Coaster",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 90
@@ -7448,7 +7465,7 @@
   {
    "number": 918,
    "name": "Submarine",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 91
@@ -7456,7 +7473,7 @@
   {
    "number": 919,
    "name": "Laugh",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 97
@@ -7464,7 +7481,7 @@
   {
    "number": 920,
    "name": "Scream",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 98
@@ -7472,7 +7489,7 @@
   {
    "number": 921,
    "name": "Punch",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 99
@@ -7480,7 +7497,7 @@
   {
    "number": 922,
    "name": "Heartbeat",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 100
@@ -7488,7 +7505,7 @@
   {
    "number": 923,
    "name": "Footsteps",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 101
@@ -7496,7 +7513,7 @@
   {
    "number": 924,
    "name": "Machine Gun",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 113
@@ -7504,7 +7521,7 @@
   {
    "number": 925,
    "name": "Laser Gun",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 114
@@ -7512,7 +7529,7 @@
   {
    "number": 926,
    "name": "Explosion",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 115
@@ -7520,7 +7537,7 @@
   {
    "number": 927,
    "name": "Firework",
-   "category": "Perc. & Drums",
+   "category": "XG Sound Effects",
    "msb": 64,
    "lsb": 0,
    "program": 116

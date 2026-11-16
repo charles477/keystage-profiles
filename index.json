@@ -70,8 +70,8 @@
       "file": "profiles/yamaha-psr-i400.json",
       "schemaVersion": 1,
       "profileVersion": "2026.11.15",
-      "sizeBytes": 116395,
-      "sha256": "bf54dd318a91b3a5b601d6a7f08e9d05cd7d798fb660c318af3583a6896a37c1",
+      "sizeBytes": 116408,
+      "sha256": "51be2ac2ddd509771a32a478e4fec9cf05ab7332eb24bb5ca767292f548f4ee1",
       "identity": {
         "manufacturerId": "43",
         "familyCode": null,
@@ -90,8 +90,8 @@
       "file": "profiles/yamaha-psr-i425.json",
       "schemaVersion": 1,
       "profileVersion": "2026.11.15",
-      "sizeBytes": 78720,
-      "sha256": "bbcb1319cd1c532757c5f6cec7279a42ad187554b4b514874d342f41d6ff8380",
+      "sizeBytes": 79800,
+      "sha256": "919baef126243e0543b3020c387b6832a83e577e324a44ce7387dfd1d5f9a4b2",
       "identity": {
         "manufacturerId": "43",
         "familyCode": null,
@@ -150,8 +150,8 @@
       "file": "profiles/yamaha-psr-i510.json",
       "schemaVersion": 1,
       "profileVersion": "2026.11.15",
-      "sizeBytes": 147120,
-      "sha256": "3893765aedcd5b82dcc17978cff88ac12756fa55fc7cfb917472775bd56b3b72",
+      "sizeBytes": 146367,
+      "sha256": "2a66936a95e13ebd9e3689e40cba0b05e71c62fb14a3fe29ebabf775b2c8a181",
       "identity": {
         "manufacturerId": "43",
         "familyCode": null,
@@ -170,8 +170,8 @@
       "file": "profiles/yamaha-psr-i610.json",
       "schemaVersion": 1,
       "profileVersion": "2026.11.15",
-      "sizeBytes": 153346,
-      "sha256": "42a48526b983b46b2117181ccfd6b68b192f3551bd8f74ad99365da08f2cda96",
+      "sizeBytes": 152593,
+      "sha256": "96e6dd2c67f2c05580b840b3168760e6d8ac6f6fc3fadd92f7886d1f45606285",
       "identity": {
         "manufacturerId": "43",
         "familyCode": null,
